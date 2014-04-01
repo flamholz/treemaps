@@ -24,14 +24,19 @@ class HierarchyItem(object):
     @staticmethod
     def from_dict(d):
         return HierarchyItem._from_dict_depth(d, 0, None)
-
+    
     def add_child(self, child):
         self.children.append(child)
+        
+    def get_size(self):
+        if self.children:
+            return sum([c.get_size() for c in self.children])
+        return self.size or 0
     
     def as_dict(self):
-        d = {'name': self.name}
+        d = {'name': self.name,
+             'depth': self.depth,
+             'size': self.get_size()}
         if self.children:
             d['children'] = [c.as_dict() for c in self.children]
-        else:
-            d['size'] = self.size
         return d
