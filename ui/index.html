@@ -34,7 +34,7 @@ form {
 
 var margin = {top: 40, right: 10, bottom: 10, left: 10},
     width = 960 - margin.left - margin.right,
-    height = 750 - margin.top - margin.bottom;
+    height = 780 - margin.top - margin.bottom;
 
 var color = d3.scale.category20c();
 
@@ -53,6 +53,7 @@ var div = d3.select("body").append("div")
 // TODO: show different hierarchy levels.
 // TODO: similar colors for adjacent categories.
 // TODO: figure out what is wrong with "count" functionality.
+// TODO: add more information - percentage of total, category, etc.
 d3.json("eco_Valgepea_2013_48_cost.json", function(error, root) {
   var node = div.datum(root).selectAll(".node")
       .data(treemap.nodes)
