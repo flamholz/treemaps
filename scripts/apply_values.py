@@ -51,6 +51,7 @@ def Main():
 
     print 'Applying values'
     apply_values(hierarchy, values_mapping, readable_name_mapping)
+    hierarchy.prune()
     with open(args.output_filename, 'w') as out_f:
         d = hierarchy.as_dict()
         json.dump(d, out_f, indent=2)   

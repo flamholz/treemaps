@@ -6,23 +6,34 @@ import json
 from hierarchy import HierarchyItem
 
 
-def consume_line(l, current_parent):
+def consume_line(l, previous_item):
     l_depth = int(l.count('\t'))
     l_name = l.strip()
     
-    if l_depth == current_parent.depth:
-        child = HierarchyItem(l_name, l_depth, current_parent)
-        current_parent.add_child(child)
-        return current_parent
-    elif l_depth == current_parent.depth + 1:
-        child = HierarchyItem(l_name, l_depth, current_parent)
-        current_parent.add_child(child)
+    if l_depth == previous_item.depth:
+        # same depth as previous - child of same parent
+        parent = previous_item.parent
+        new_item = HierarchyItem(l_name, l_depth, parent)
+        parent.add_child(new_item)
+        return new_item
+    elif l_depth == previous_item.depth + 1:
+        # depth one higher - child of previous item
+        parent = previous_item
+        child = HierarchyItem(l_name, l_depth, parent)
+        parent.add_child(child)
         return child
     else:
-        grandparent = current_parent.parent
-        new_parent = HierarchyItem(l_name, l_depth, grandparent)
-        grandparent.add_child(new_parent)
-        return new_parent
+        # lower depth - child of some ancestor
+        depth_change = previous_item.depth - l_depth
+        assert depth_change > 0
+        
+        appropriate_parent = previous_item.parent
+        for _ in xrange(depth_change):
+            appropriate_parent = appropriate_parent.parent
+
+        new_item = HierarchyItem(l_name, l_depth, appropriate_parent)
+        appropriate_parent.add_child(new_item)
+        return new_item
 
 
 def Main():
