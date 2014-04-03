@@ -3,8 +3,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <title>Treemap - Neat Zoom Effect</title>
-    <script type="text/javascript" src="http://www.billdwhite.com/wordpress/wp-content/js/browserdetect/browserdetect.js"></script>
-    <script type="text/javascript" src="http://www.billdwhite.com/wordpress/wp-content/js/d3/d3.js"></script>
+    <script type="text/javascript" src="browserdetect.js"></script>
+    <script type="text/javascript" src="d3.v3.min.js"></script>
     <style type="text/css">
         body {
             overflow: hidden;
@@ -71,12 +71,6 @@
 </head>
 <body>
 <div id="body"></div>
-<div class="footer">
-    <select>
-        <option value="size">Size</option>
-        <option value="count">Count</option>
-    </select>
-</div>
 </body>
  
 <script type="text/javascript">
@@ -149,8 +143,6 @@
         var parents = nodes.filter(function(d) {
             return d.children;
         });
-        console.log(children);
-        console.log(parents);
  
         // create parent cells
         var parentCells = chart.selectAll("g.cell.parent")
