@@ -220,6 +220,7 @@
         childEnterTransition.append("rect")
             .classed("background", true)
             .style("fill", function(d) {
+                if (d.color) { return d.color; }
                 return color(d.parent.name);
             });
         childEnterTransition.append('foreignObject')
@@ -260,6 +261,7 @@
                 return d.dy;
             })
             .style("fill", function(d) {
+                if (d.color) { return d.color; }
                 return color(d.parent.name);
             });
         childUpdateTransition.select(".foreignObject")
@@ -403,6 +405,7 @@
                 return d.children ? headerHeight : Math.max(0.01, ky * d.dy);
             })
             .style("fill", function(d) {
+                if (d.color) { return d.color; }
                 return d.children ? headerColor : color(d.parent.name);
             });
  

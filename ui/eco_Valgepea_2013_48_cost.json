@@ -1,40 +1,52 @@
 {
+  "color": null, 
   "children": [
     {
+      "color": null, 
       "children": [
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(86, 90, 213)", 
                   "name": "RpoA", 
                   "size": 3355800.0
                 }, 
                 {
+                  "color": "rgb(77, 87, 198)", 
                   "name": "RpoB", 
                   "size": 8824992.0
                 }, 
                 {
+                  "color": "rgb(75, 81, 195)", 
                   "name": "RpoC", 
                   "size": 7821513.0
                 }, 
                 {
+                  "color": "rgb(74, 80, 200)", 
                   "name": "RpoD", 
                   "size": 1026162.0
                 }, 
                 {
+                  "color": "rgb(83, 87, 200)", 
                   "name": "RpoS", 
                   "size": 227652.0
                 }, 
                 {
+                  "color": "rgb(74, 82, 194)", 
                   "name": "FecI", 
                   "size": 56727.0
                 }, 
                 {
+                  "color": "rgb(83, 90, 205)", 
                   "name": "RpoN", 
                   "size": 73458.0
                 }, 
                 {
+                  "color": "rgb(81, 80, 193)", 
                   "name": "RpoZ", 
                   "size": 570206.0
                 }
@@ -43,144 +55,180 @@
               "size": 21956510.0
             }, 
             {
+              "color": null, 
               "name": "Basal transcription factors", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(75, 89, 210)", 
                   "name": "OsmE", 
                   "size": 1408750.0
                 }, 
                 {
+                  "color": "rgb(63, 79, 194)", 
                   "name": "HupB", 
                   "size": 1653300.0
                 }, 
                 {
+                  "color": "rgb(66, 82, 205)", 
                   "name": "HupA", 
                   "size": 4365900.0
                 }, 
                 {
+                  "color": "rgb(75, 86, 205)", 
                   "name": "OxyR", 
                   "size": 74115.0
                 }, 
                 {
+                  "color": "rgb(78, 84, 209)", 
                   "name": "ArgP", 
                   "size": 160974.0
                 }, 
                 {
+                  "color": "rgb(66, 79, 205)", 
                   "name": "CysB", 
                   "size": 90396.0
                 }, 
                 {
+                  "color": "rgb(75, 89, 210)", 
                   "name": "GlpR", 
                   "size": 136045.0
                 }, 
                 {
+                  "color": "rgb(73, 82, 200)", 
                   "name": "FruR", 
                   "size": 99866.0
                 }, 
                 {
+                  "color": "rgb(67, 80, 199)", 
                   "name": "PurR", 
                   "size": 599819.0
                 }, 
                 {
+                  "color": "rgb(68, 75, 200)", 
                   "name": "GntR", 
                   "size": 109561.0
                 }, 
                 {
+                  "color": "rgb(69, 75, 188)", 
                   "name": "FadR", 
                   "size": 83172.0
                 }, 
                 {
+                  "color": "rgb(74, 83, 213)", 
                   "name": "PdhR", 
                   "size": 77978.0
                 }, 
                 {
+                  "color": "rgb(64, 79, 199)", 
                   "name": "Lrp", 
                   "size": 1310862.0
                 }, 
                 {
+                  "color": "rgb(66, 81, 198)", 
                   "name": "MalT", 
                   "size": 91902.0
                 }, 
                 {
+                  "color": "rgb(67, 80, 199)", 
                   "name": "MprA", 
                   "size": 59664.0
                 }, 
                 {
+                  "color": "rgb(75, 86, 205)", 
                   "name": "SlyA", 
                   "size": 140744.0
                 }, 
                 {
+                  "color": "rgb(69, 75, 188)", 
                   "name": "Fur", 
                   "size": 529248.0
                 }, 
                 {
+                  "color": "rgb(73, 79, 212)", 
                   "name": "Zur", 
                   "size": 24795.0
                 }, 
                 {
+                  "color": "rgb(73, 79, 212)", 
                   "name": "MhpR", 
                   "size": 720.0
                 }, 
                 {
+                  "color": "rgb(64, 79, 199)", 
                   "name": "AllR", 
                   "size": 36043.0
                 }, 
                 {
+                  "color": "rgb(73, 82, 200)", 
                   "name": "Crp", 
                   "size": 972930.0
                 }, 
                 {
+                  "color": "rgb(77, 89, 217)", 
                   "name": "Fnr", 
                   "size": 475750.0
                 }, 
                 {
+                  "color": "rgb(66, 79, 205)", 
                   "name": "IscR", 
                   "size": 495882.0
                 }, 
                 {
+                  "color": "rgb(75, 86, 205)", 
                   "name": "NikR", 
                   "size": 82992.0
                 }, 
                 {
+                  "color": "rgb(69, 75, 188)", 
                   "name": "TrpR", 
                   "size": 42120.0
                 }, 
                 {
+                  "color": "rgb(69, 86, 203)", 
                   "name": "NadR", 
                   "size": 19182.0
                 }, 
                 {
+                  "color": "rgb(75, 86, 205)", 
                   "name": "NagC", 
                   "size": 18676.0
                 }, 
                 {
+                  "color": "rgb(107, 159, 255)", 
                   "name": "CspD", 
                   "size": 83664.0
                 }, 
                 {
+                  "color": "rgb(64, 79, 199)", 
                   "name": "MetJ", 
                   "size": 259035.0
                 }, 
                 {
+                  "color": "rgb(67, 80, 199)", 
                   "name": "TyrR", 
                   "size": 51300.0
                 }, 
                 {
+                  "color": "rgb(73, 79, 212)", 
                   "name": "YqgE", 
                   "size": 104159.0
                 }, 
                 {
+                  "color": "rgb(69, 75, 188)", 
                   "name": "DksA", 
                   "size": 947978.0
                 }, 
                 {
+                  "color": "rgb(78, 84, 209)", 
                   "name": "NrdR", 
                   "size": 49468.0
                 }, 
                 {
+                  "color": "rgb(66, 81, 198)", 
                   "name": "Crl", 
                   "size": 337687.0
                 }
@@ -189,6 +237,7 @@
               "size": 14994677.0
             }, 
             {
+              "color": null, 
               "name": "Spliceosome", 
               "size": 0
             }
@@ -197,218 +246,273 @@
           "size": 36951187.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(94, 113, 239)", 
                   "name": "RplD", 
                   "size": 5014146.0
                 }, 
                 {
+                  "color": "rgb(103, 119, 247)", 
                   "name": "RpsU", 
                   "size": 2675564.0
                 }, 
                 {
+                  "color": "rgb(94, 113, 246)", 
                   "name": "RpmA", 
                   "size": 1038955.0
                 }, 
                 {
+                  "color": "rgb(92, 111, 239)", 
                   "name": "RplX", 
                   "size": 2522832.0
                 }, 
                 {
+                  "color": "rgb(102, 110, 250)", 
                   "name": "RplW", 
                   "size": 1500000.0
                 }, 
                 {
+                  "color": "rgb(94, 114, 245)", 
                   "name": "RpsE", 
                   "size": 5115377.0
                 }, 
                 {
+                  "color": "rgb(94, 113, 239)", 
                   "name": "RplL", 
                   "size": 5925249.0
                 }, 
                 {
+                  "color": "rgb(90, 105, 235)", 
                   "name": "RplI", 
                   "size": 4425896.0
                 }, 
                 {
+                  "color": "rgb(90, 105, 235)", 
                   "name": "RpsK", 
                   "size": 1997049.0
                 }, 
                 {
+                  "color": "rgb(102, 110, 250)", 
                   "name": "RpsJ", 
                   "size": 3486550.0
                 }, 
                 {
+                  "color": "rgb(103, 116, 246)", 
                   "name": "RplU", 
                   "size": 1839271.0
                 }, 
                 {
+                  "color": "rgb(102, 112, 254)", 
                   "name": "RplS", 
                   "size": 2612800.0
                 }, 
                 {
+                  "color": "rgb(107, 117, 252)", 
                   "name": "RplT", 
                   "size": 1860978.0
                 }, 
                 {
+                  "color": "rgb(92, 111, 239)", 
                   "name": "RplB", 
                   "size": 6751563.0
                 }, 
                 {
+                  "color": "rgb(94, 111, 246)", 
                   "name": "RplC", 
                   "size": 4966885.0
                 }, 
                 {
+                  "color": "rgb(95, 106, 240)", 
                   "name": "RpsL", 
                   "size": 1128152.0
                 }, 
                 {
+                  "color": "rgb(95, 112, 240)", 
                   "name": "RpmB", 
                   "size": 1788150.0
                 }, 
                 {
+                  "color": "rgb(107, 117, 252)", 
                   "name": "RpsP", 
                   "size": 3582908.0
                 }, 
                 {
+                  "color": "rgb(102, 112, 254)", 
                   "name": "RpsG", 
                   "size": 3477864.0
                 }, 
                 {
+                  "color": "rgb(91, 110, 238)", 
                   "name": "RpsF", 
                   "size": 3717911.0
                 }, 
                 {
+                  "color": "rgb(103, 116, 246)", 
                   "name": "RpsI", 
                   "size": 2878980.0
                 }, 
                 {
+                  "color": "rgb(102, 110, 250)", 
                   "name": "RplN", 
                   "size": 2251023.0
                 }, 
                 {
+                  "color": "rgb(90, 105, 235)", 
                   "name": "RplO", 
                   "size": 2884032.0
                 }, 
                 {
+                  "color": "rgb(107, 117, 252)", 
                   "name": "RplP", 
                   "size": 4108424.0
                 }, 
                 {
+                  "color": "rgb(103, 116, 246)", 
                   "name": "RplQ", 
                   "size": 2749677.0
                 }, 
                 {
+                  "color": "rgb(103, 119, 247)", 
                   "name": "RpmD", 
                   "size": 1883988.0
                 }, 
                 {
+                  "color": "rgb(102, 112, 254)", 
                   "name": "RpsO", 
                   "size": 2287745.0
                 }, 
                 {
+                  "color": "rgb(91, 110, 238)", 
                   "name": "RpsN", 
                   "size": 1587821.0
                 }, 
                 {
+                  "color": "rgb(101, 114, 240)", 
                   "name": "RpmG", 
                   "size": 1001385.0
                 }, 
                 {
+                  "color": "rgb(95, 112, 240)", 
                   "name": "RpmF", 
                   "size": 701841.0
                 }, 
                 {
+                  "color": "rgb(95, 106, 240)", 
                   "name": "RpmH", 
                   "size": 1490860.0
                 }, 
                 {
+                  "color": "rgb(91, 110, 238)", 
                   "name": "RpsR", 
                   "size": 1613250.0
                 }, 
                 {
+                  "color": "rgb(103, 119, 247)", 
                   "name": "RpsQ", 
                   "size": 1274196.0
                 }, 
                 {
+                  "color": "rgb(94, 113, 239)", 
                   "name": "RplA", 
                   "size": 6804018.0
                 }, 
                 {
+                  "color": "rgb(90, 105, 235)", 
                   "name": "RplK", 
                   "size": 3143312.0
                 }, 
                 {
+                  "color": "rgb(91, 110, 238)", 
                   "name": "RplJ", 
                   "size": 4589145.0
                 }, 
                 {
+                  "color": "rgb(91, 110, 238)", 
                   "name": "RpsA", 
                   "size": 12948022.0
                 }, 
                 {
+                  "color": "rgb(92, 111, 239)", 
                   "name": "RpsB", 
                   "size": 7168063.0
                 }, 
                 {
+                  "color": "rgb(102, 110, 250)", 
                   "name": "RpsC", 
                   "size": 6467847.0
                 }, 
                 {
+                  "color": "rgb(107, 117, 252)", 
                   "name": "RpsD", 
                   "size": 5776858.0
                 }, 
                 {
+                  "color": "rgb(92, 111, 239)", 
                   "name": "RpsH", 
                   "size": 2133300.0
                 }, 
                 {
+                  "color": "rgb(103, 119, 247)", 
                   "name": "RpsM", 
                   "size": 4081384.0
                 }, 
                 {
+                  "color": "rgb(102, 112, 254)", 
                   "name": "RpsS", 
                   "size": 2325944.0
                 }, 
                 {
+                  "color": "rgb(107, 117, 252)", 
                   "name": "RpsT", 
                   "size": 2506905.0
                 }, 
                 {
+                  "color": "rgb(91, 110, 238)", 
                   "name": "Sra", 
                   "size": 417330.0
                 }, 
                 {
+                  "color": "rgb(101, 114, 240)", 
                   "name": "RplE", 
                   "size": 5458426.0
                 }, 
                 {
+                  "color": "rgb(94, 111, 246)", 
                   "name": "RplF", 
                   "size": 5205216.0
                 }, 
                 {
+                  "color": "rgb(103, 119, 247)", 
                   "name": "RplM", 
                   "size": 4225920.0
                 }, 
                 {
+                  "color": "rgb(94, 113, 239)", 
                   "name": "RplR", 
                   "size": 1999179.0
                 }, 
                 {
+                  "color": "rgb(94, 113, 239)", 
                   "name": "RplV", 
                   "size": 3561690.0
                 }, 
                 {
+                  "color": "rgb(103, 116, 246)", 
                   "name": "RplY", 
                   "size": 2283072.0
                 }, 
                 {
+                  "color": "rgb(101, 114, 240)", 
                   "name": "RpmC", 
                   "size": 2440305.0
                 }, 
                 {
+                  "color": "rgb(91, 110, 238)", 
                   "name": "RpmE", 
                   "size": 874370.0
                 }
@@ -417,40 +521,50 @@
               "size": 176551628.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(92, 121, 223)", 
                   "name": "TufB", 
                   "size": 30618350.0
                 }, 
                 {
+                  "color": "rgb(83, 113, 222)", 
                   "name": "InfB", 
                   "size": 2800830.0
                 }, 
                 {
+                  "color": "rgb(90, 113, 215)", 
                   "name": "InfC", 
                   "size": 937296.0
                 }, 
                 {
+                  "color": "rgb(83, 113, 222)", 
                   "name": "Tsf", 
                   "size": 6145911.0
                 }, 
                 {
+                  "color": "rgb(91, 116, 217)", 
                   "name": "FusA", 
                   "size": 13525248.0
                 }, 
                 {
+                  "color": "rgb(92, 112, 226)", 
                   "name": "Frr", 
                   "size": 1311280.0
                 }, 
                 {
+                  "color": "rgb(85, 108, 217)", 
                   "name": "InfA", 
                   "size": 491760.0
                 }, 
                 {
+                  "color": "rgb(85, 108, 217)", 
                   "name": "Efp", 
                   "size": 1146048.0
                 }, 
                 {
+                  "color": "rgb(80, 112, 216)", 
                   "name": "PrfC", 
                   "size": 628672.0
                 }
@@ -459,96 +573,120 @@
               "size": 57605395.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(86, 118, 232)", 
                   "name": "TrpS", 
                   "size": 827318.0
                 }, 
                 {
+                  "color": "rgb(77, 116, 217)", 
                   "name": "ArgS", 
                   "size": 553920.0
                 }, 
                 {
+                  "color": "rgb(86, 118, 232)", 
                   "name": "LysS", 
                   "size": 61610.0
                 }, 
                 {
+                  "color": "rgb(78, 118, 217)", 
                   "name": "ValS", 
                   "size": 1428402.0
                 }, 
                 {
+                  "color": "rgb(76, 115, 217)", 
                   "name": "HisS", 
                   "size": 760232.0
                 }, 
                 {
+                  "color": "rgb(87, 116, 227)", 
                   "name": "TyrS", 
                   "size": 754720.0
                 }, 
                 {
+                  "color": "rgb(75, 110, 214)", 
                   "name": "ThrS", 
                   "size": 875046.0
                 }, 
                 {
+                  "color": "rgb(87, 124, 224)", 
                   "name": "PheT", 
                   "size": 1715610.0
                 }, 
                 {
+                  "color": "rgb(87, 124, 224)", 
                   "name": "ProS", 
                   "size": 2888028.0
                 }, 
                 {
+                  "color": "rgb(77, 116, 217)", 
                   "name": "LeuS", 
                   "size": 2592040.0
                 }, 
                 {
+                  "color": "rgb(75, 110, 214)", 
                   "name": "GlnS", 
                   "size": 1345112.0
                 }, 
                 {
+                  "color": "rgb(76, 115, 217)", 
                   "name": "CysS", 
                   "size": 404297.0
                 }, 
                 {
+                  "color": "rgb(80, 111, 218)", 
                   "name": "IleS", 
                   "size": 2120818.0
                 }, 
                 {
+                  "color": "rgb(87, 124, 224)", 
                   "name": "AlaS", 
                   "size": 2353812.0
                 }, 
                 {
+                  "color": "rgb(87, 116, 227)", 
                   "name": "SerS", 
                   "size": 1559610.0
                 }, 
                 {
+                  "color": "rgb(86, 118, 232)", 
                   "name": "AspS", 
                   "size": 1666750.0
                 }, 
                 {
+                  "color": "rgb(86, 118, 232)", 
                   "name": "GltX", 
                   "size": 1668282.0
                 }, 
                 {
+                  "color": "rgb(88, 121, 223)", 
                   "name": "PheS", 
                   "size": 557862.0
                 }, 
                 {
+                  "color": "rgb(76, 115, 217)", 
                   "name": "MetG", 
                   "size": 1390558.0
                 }, 
                 {
+                  "color": "rgb(87, 116, 227)", 
                   "name": "AsnS", 
                   "size": 2346776.0
                 }, 
                 {
+                  "color": "rgb(77, 116, 217)", 
                   "name": "GlyQ", 
                   "size": 870822.0
                 }, 
                 {
+                  "color": "rgb(91, 123, 229)", 
                   "name": "GlyS", 
                   "size": 2386696.0
                 }, 
                 {
+                  "color": "rgb(82, 124, 222)", 
                   "name": "Fmt", 
                   "size": 163800.0
                 }
@@ -557,8 +695,10 @@
               "size": 31292121.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(81, 111, 228)", 
                   "name": "Cca", 
                   "size": 14420.0
                 }
@@ -567,72 +707,90 @@
               "size": 14420.0
             }, 
             {
+              "color": null, 
               "name": "mRNA surveillance pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Ribosome biogenesis in eukaryotes", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(91, 123, 255)", 
                   "name": "Rnc", 
                   "size": 77518.0
                 }, 
                 {
+                  "color": "rgb(92, 130, 250)", 
                   "name": "RsuA", 
                   "size": 150150.0
                 }, 
                 {
+                  "color": "rgb(83, 122, 248)", 
                   "name": "RsmA", 
                   "size": 191800.0
                 }, 
                 {
+                  "color": "rgb(92, 127, 248)", 
                   "name": "RsmB", 
                   "size": 65208.0
                 }, 
                 {
+                  "color": "rgb(90, 125, 243)", 
                   "name": "RsmC", 
                   "size": 113876.0
                 }, 
                 {
+                  "color": "rgb(91, 128, 255)", 
                   "name": "RlmI", 
                   "size": 47916.0
                 }, 
                 {
+                  "color": "rgb(91, 122, 252)", 
                   "name": "RlmL", 
                   "size": 16146.0
                 }, 
                 {
+                  "color": "rgb(80, 121, 241)", 
                   "name": "RlmN", 
                   "size": 88900.0
                 }, 
                 {
+                  "color": "rgb(87, 129, 247)", 
                   "name": "YfiF", 
                   "size": 309120.0
                 }, 
                 {
+                  "color": "rgb(91, 123, 255)", 
                   "name": "RluB", 
                   "size": 74205.0
                 }, 
                 {
+                  "color": "rgb(80, 116, 237)", 
                   "name": "RluC", 
                   "size": 34771.0
                 }, 
                 {
+                  "color": "rgb(90, 125, 243)", 
                   "name": "RluD", 
                   "size": 129748.0
                 }, 
                 {
+                  "color": "rgb(83, 124, 242)", 
                   "name": "RimL", 
                   "size": 17542.0
                 }, 
                 {
+                  "color": "rgb(83, 124, 242)", 
                   "name": "SrmB", 
                   "size": 175380.0
                 }, 
                 {
+                  "color": "rgb(83, 124, 248)", 
                   "name": "RsgA", 
                   "size": 107450.0
                 }
@@ -645,170 +803,213 @@
           "size": 267063294.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Protease inhibitors", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Proteases", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(92, 143, 246)", 
                   "name": "NfuA", 
                   "size": 1933050.0
                 }, 
                 {
+                  "color": "rgb(97, 141, 248)", 
                   "name": "HdeB", 
                   "size": 1914150.0
                 }, 
                 {
+                  "color": "rgb(96, 146, 255)", 
                   "name": "Tig", 
                   "size": 5367600.0
                 }, 
                 {
+                  "color": "rgb(98, 147, 254)", 
                   "name": "Skp", 
                   "size": 4420500.0
                 }, 
                 {
+                  "color": "rgb(93, 144, 252)", 
                   "name": "HtpG", 
                   "size": 1334112.0
                 }, 
                 {
+                  "color": "rgb(104, 148, 255)", 
                   "name": "ClpA", 
                   "size": 1735820.0
                 }, 
                 {
+                  "color": "rgb(92, 138, 248)", 
                   "name": "ClpB", 
                   "size": 1632832.0
                 }, 
                 {
+                  "color": "rgb(98, 140, 253)", 
                   "name": "ClpX", 
                   "size": 981136.0
                 }, 
                 {
+                  "color": "rgb(104, 148, 255)", 
                   "name": "HslU", 
                   "size": 586089.0
                 }, 
                 {
+                  "color": "rgb(92, 143, 246)", 
                   "name": "DnaK", 
                   "size": 7294254.0
                 }, 
                 {
+                  "color": "rgb(98, 138, 240)", 
                   "name": "HscA", 
                   "size": 184800.0
                 }, 
                 {
+                  "color": "rgb(106, 155, 255)", 
                   "name": "GroL", 
                   "size": 5504112.0
                 }, 
                 {
+                  "color": "rgb(92, 138, 248)", 
                   "name": "DnaJ", 
                   "size": 234624.0
                 }, 
                 {
+                  "color": "rgb(96, 146, 255)", 
                   "name": "CbpA", 
                   "size": 187884.0
                 }, 
                 {
+                  "color": "rgb(107, 159, 255)", 
                   "name": "HscB", 
                   "size": 144153.0
                 }, 
                 {
+                  "color": "rgb(104, 149, 254)", 
                   "name": "HslO", 
                   "size": 330162.0
                 }, 
                 {
+                  "color": "rgb(95, 145, 253)", 
                   "name": "GrpE", 
                   "size": 890243.0
                 }, 
                 {
+                  "color": "rgb(96, 147, 253)", 
                   "name": "GroS", 
                   "size": 3013148.0
                 }, 
                 {
+                  "color": "rgb(96, 147, 253)", 
                   "name": "DegP", 
                   "size": 1020522.0
                 }, 
                 {
+                  "color": "rgb(96, 149, 255)", 
                   "name": "FtsH", 
                   "size": 593250.0
                 }, 
                 {
+                  "color": "rgb(92, 143, 246)", 
                   "name": "SecB", 
                   "size": 1901695.0
                 }, 
                 {
+                  "color": "rgb(92, 138, 248)", 
                   "name": "PpiA", 
                   "size": 564490.0
                 }, 
                 {
+                  "color": "rgb(95, 145, 253)", 
                   "name": "PpiB", 
                   "size": 1210976.0
                 }, 
                 {
+                  "color": "rgb(96, 146, 255)", 
                   "name": "PpiD", 
                   "size": 699629.0
                 }, 
                 {
+                  "color": "rgb(96, 147, 253)", 
                   "name": "FkpA", 
                   "size": 953640.0
                 }, 
                 {
+                  "color": "rgb(93, 144, 252)", 
                   "name": "FklB", 
                   "size": 760346.0
                 }, 
                 {
+                  "color": "rgb(105, 146, 255)", 
                   "name": "FkpB", 
                   "size": 316029.0
                 }, 
                 {
+                  "color": "rgb(104, 148, 255)", 
                   "name": "SlyD", 
                   "size": 1131312.0
                 }, 
                 {
+                  "color": "rgb(109, 154, 255)", 
                   "name": "PpiC", 
                   "size": 260214.0
                 }, 
                 {
+                  "color": "rgb(106, 155, 255)", 
                   "name": "SurA", 
                   "size": 1040468.0
                 }, 
                 {
+                  "color": "rgb(96, 146, 255)", 
                   "name": "TrxA", 
                   "size": 2005344.0
                 }, 
                 {
+                  "color": "rgb(106, 155, 255)", 
                   "name": "TrxC", 
                   "size": 28356.0
                 }, 
                 {
+                  "color": "rgb(95, 145, 253)", 
                   "name": "YbbN", 
                   "size": 789520.0
                 }, 
                 {
+                  "color": "rgb(105, 146, 255)", 
                   "name": "GrxB", 
                   "size": 504390.0
                 }, 
                 {
+                  "color": "rgb(104, 148, 255)", 
                   "name": "GrxC", 
                   "size": 290334.0
                 }, 
                 {
+                  "color": "rgb(96, 147, 253)", 
                   "name": "GrxD", 
                   "size": 879405.0
                 }, 
                 {
+                  "color": "rgb(96, 147, 253)", 
                   "name": "DsbA", 
                   "size": 810368.0
                 }, 
                 {
+                  "color": "rgb(105, 146, 255)", 
                   "name": "DsbC", 
                   "size": 148680.0
                 }, 
                 {
+                  "color": "rgb(98, 140, 253)", 
                   "name": "DsbG", 
                   "size": 28140.0
                 }
@@ -817,52 +1018,65 @@
               "size": 53625777.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(97, 157, 235)", 
                   "name": "SecY", 
                   "size": 321618.0
                 }, 
                 {
+                  "color": "rgb(103, 166, 236)", 
                   "name": "SecG", 
                   "size": 101750.0
                 }, 
                 {
+                  "color": "rgb(97, 155, 223)", 
                   "name": "SecD", 
                   "size": 158055.0
                 }, 
                 {
+                  "color": "rgb(106, 178, 248)", 
                   "name": "SecF", 
                   "size": 13889.0
                 }, 
                 {
+                  "color": "rgb(101, 163, 237)", 
                   "name": "YajC", 
                   "size": 366300.0
                 }, 
                 {
+                  "color": "rgb(97, 165, 235)", 
                   "name": "YidC", 
                   "size": 496488.0
                 }, 
                 {
+                  "color": "rgb(99, 171, 239)", 
                   "name": "SecA", 
                   "size": 975783.0
                 }, 
                 {
+                  "color": "rgb(99, 171, 239)", 
                   "name": "Ffh", 
                   "size": 551301.0
                 }, 
                 {
+                  "color": "rgb(97, 159, 227)", 
                   "name": "FtsY", 
                   "size": 529872.0
                 }, 
                 {
+                  "color": "rgb(91, 160, 229)", 
                   "name": "TatA", 
                   "size": 44322.0
                 }, 
                 {
+                  "color": "rgb(97, 155, 223)", 
                   "name": "TatB", 
                   "size": 19836.0
                 }, 
                 {
+                  "color": "rgb(98, 162, 242)", 
                   "name": "LepB", 
                   "size": 19116.0
                 }
@@ -871,60 +1085,75 @@
               "size": 3598330.0
             }, 
             {
+              "color": null, 
               "name": "Protein processing in endoplasmic reticulum", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "SNARE interactions in vesicular transport", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "SNAREs", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Ubiquitin mediated proteolysis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Ubiquitin labeling", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(94, 141, 240)", 
                   "name": "IscS", 
                   "size": 2758108.0
                 }, 
                 {
+                  "color": "rgb(99, 148, 253)", 
                   "name": "YnjE", 
                   "size": 227329.0
                 }, 
                 {
+                  "color": "rgb(98, 149, 251)", 
                   "name": "YheN", 
                   "size": 14336.0
                 }, 
                 {
+                  "color": "rgb(98, 149, 251)", 
                   "name": "MnmA", 
                   "size": 92368.0
                 }, 
                 {
+                  "color": "rgb(98, 149, 251)", 
                   "name": "MoaE", 
                   "size": 80100.0
                 }, 
                 {
+                  "color": "rgb(108, 157, 253)", 
                   "name": "MoaD", 
                   "size": 39123.0
                 }, 
                 {
+                  "color": "rgb(98, 150, 245)", 
                   "name": "MoaC", 
                   "size": 64883.0
                 }, 
                 {
+                  "color": "rgb(105, 151, 246)", 
                   "name": "Mog", 
                   "size": 39780.0
                 }, 
                 {
+                  "color": "rgb(100, 142, 245)", 
                   "name": "ThiF", 
                   "size": 230418.0
                 }
@@ -933,132 +1162,165 @@
               "size": 3546445.0
             }, 
             {
+              "color": null, 
               "name": "Proteasome", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(112, 169, 243)", 
                   "name": "Lon", 
                   "size": 1818096.0
                 }, 
                 {
+                  "color": "rgb(105, 167, 248)", 
                   "name": "ClpP", 
                   "size": 1346742.0
                 }, 
                 {
+                  "color": "rgb(117, 182, 255)", 
                   "name": "OmpT", 
                   "size": 335069.0
                 }, 
                 {
+                  "color": "rgb(107, 160, 242)", 
                   "name": "GuaA", 
                   "size": 2871750.0
                 }, 
                 {
+                  "color": "rgb(105, 167, 248)", 
                   "name": "PurF", 
                   "size": 267145.0
                 }, 
                 {
+                  "color": "rgb(109, 174, 246)", 
                   "name": "GlmS", 
                   "size": 1797159.0
                 }, 
                 {
+                  "color": "rgb(115, 176, 249)", 
                   "name": "AsnB", 
                   "size": 694162.0
                 }, 
                 {
+                  "color": "rgb(106, 158, 229)", 
                   "name": "YhbO", 
                   "size": 130200.0
                 }, 
                 {
+                  "color": "rgb(101, 163, 235)", 
                   "name": "YajL", 
                   "size": 154448.0
                 }, 
                 {
+                  "color": "rgb(117, 182, 255)", 
                   "name": "PepN", 
                   "size": 1385910.0
                 }, 
                 {
+                  "color": "rgb(109, 174, 246)", 
                   "name": "PrlC", 
                   "size": 898960.0
                 }, 
                 {
+                  "color": "rgb(112, 169, 243)", 
                   "name": "Dcp", 
                   "size": 625158.0
                 }, 
                 {
+                  "color": "rgb(102, 164, 241)", 
                   "name": "PepB", 
                   "size": 1436001.0
                 }, 
                 {
+                  "color": "rgb(107, 160, 242)", 
                   "name": "PepT", 
                   "size": 172992.0
                 }, 
                 {
+                  "color": "rgb(109, 174, 246)", 
                   "name": "PepD", 
                   "size": 1661610.0
                 }, 
                 {
+                  "color": "rgb(117, 182, 255)", 
                   "name": "Map", 
                   "size": 582120.0
                 }, 
                 {
+                  "color": "rgb(101, 163, 235)", 
                   "name": "PepQ", 
                   "size": 712344.0
                 }, 
                 {
+                  "color": "rgb(101, 163, 235)", 
                   "name": "PepP", 
                   "size": 523908.0
                 }, 
                 {
+                  "color": "rgb(119, 176, 254)", 
                   "name": "YggG", 
                   "size": 27216.0
                 }, 
                 {
+                  "color": "rgb(102, 164, 241)", 
                   "name": "DegQ", 
                   "size": 535080.0
                 }, 
                 {
+                  "color": "rgb(114, 170, 255)", 
                   "name": "DacD", 
                   "size": 674622.0
                 }, 
                 {
+                  "color": "rgb(112, 169, 243)", 
                   "name": "LexA", 
                   "size": 31714.0
                 }, 
                 {
+                  "color": "rgb(115, 173, 248)", 
                   "name": "Prc", 
                   "size": 639716.0
                 }, 
                 {
+                  "color": "rgb(114, 170, 255)", 
                   "name": "SohB", 
                   "size": 48511.0
                 }, 
                 {
+                  "color": "rgb(105, 169, 248)", 
                   "name": "PepE", 
                   "size": 58166.0
                 }, 
                 {
+                  "color": "rgb(105, 168, 241)", 
                   "name": "LdcA", 
                   "size": 31616.0
                 }, 
                 {
+                  "color": "rgb(112, 169, 243)", 
                   "name": "HslV", 
                   "size": 225808.0
                 }, 
                 {
+                  "color": "rgb(112, 169, 243)", 
                   "name": "Ggt", 
                   "size": 212913.0
                 }, 
                 {
+                  "color": "rgb(117, 182, 255)", 
                   "name": "YdcP", 
                   "size": 97848.0
                 }, 
                 {
+                  "color": "rgb(105, 168, 241)", 
                   "name": "PmbA", 
                   "size": 567450.0
                 }, 
                 {
+                  "color": "rgb(114, 170, 255)", 
                   "name": "TldD", 
                   "size": 230880.0
                 }
@@ -1067,32 +1329,40 @@
               "size": 20795314.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(83, 142, 218)", 
                   "name": "Rne", 
                   "size": 1776114.0
                 }, 
                 {
+                  "color": "rgb(86, 138, 220)", 
                   "name": "RraB", 
                   "size": 2656150.0
                 }, 
                 {
+                  "color": "rgb(94, 148, 225)", 
                   "name": "RhlB", 
                   "size": 391530.0
                 }, 
                 {
+                  "color": "rgb(87, 145, 230)", 
                   "name": "Pnp", 
                   "size": 3623256.0
                 }, 
                 {
+                  "color": "rgb(96, 154, 231)", 
                   "name": "Rnr", 
                   "size": 201624.0
                 }, 
                 {
+                  "color": "rgb(87, 146, 223)", 
                   "name": "Rho", 
                   "size": 1928238.0
                 }, 
                 {
+                  "color": "rgb(87, 146, 223)", 
                   "name": "Ppk", 
                   "size": 76368.0
                 }
@@ -1105,14 +1375,18 @@
           "size": 92219146.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(124, 168, 239)", 
                   "name": "PolA", 
                   "size": 447650.0
                 }, 
                 {
+                  "color": "rgb(127, 166, 241)", 
                   "name": "Ssb", 
                   "size": 545914.0
                 }
@@ -1121,16 +1395,20 @@
               "size": 993564.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(124, 169, 237)", 
                   "name": "DnaX", 
                   "size": 31507.0
                 }, 
                 {
+                  "color": "rgb(124, 170, 250)", 
                   "name": "DnaN", 
                   "size": 222894.0
                 }, 
                 {
+                  "color": "rgb(124, 179, 250)", 
                   "name": "LigA", 
                   "size": 102663.0
                 }
@@ -1139,32 +1417,40 @@
               "size": 357064.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(127, 178, 232)", 
                   "name": "IhfA", 
                   "size": 928323.0
                 }, 
                 {
+                  "color": "rgb(118, 179, 228)", 
                   "name": "IhfB", 
                   "size": 682252.0
                 }, 
                 {
+                  "color": "rgb(124, 177, 221)", 
                   "name": "DnaA", 
                   "size": 24751.0
                 }, 
                 {
+                  "color": "rgb(128, 187, 229)", 
                   "name": "SeqA", 
                   "size": 127243.0
                 }, 
                 {
+                  "color": "rgb(127, 178, 232)", 
                   "name": "GyrA", 
                   "size": 1605625.0
                 }, 
                 {
+                  "color": "rgb(119, 179, 223)", 
                   "name": "GyrB", 
                   "size": 884400.0
                 }, 
                 {
+                  "color": "rgb(128, 187, 229)", 
                   "name": "TopA", 
                   "size": 551005.0
                 }
@@ -1173,56 +1459,70 @@
               "size": 4803599.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(125, 187, 255)", 
                   "name": "Hns", 
                   "size": 3604196.0
                 }, 
                 {
+                  "color": "rgb(138, 191, 255)", 
                   "name": "StpA", 
                   "size": 933578.0
                 }, 
                 {
+                  "color": "rgb(129, 191, 255)", 
                   "name": "Rob", 
                   "size": 130050.0
                 }, 
                 {
+                  "color": "rgb(136, 193, 255)", 
                   "name": "Dps", 
                   "size": 1945548.0
                 }, 
                 {
+                  "color": "rgb(136, 193, 255)", 
                   "name": "MukE", 
                   "size": 73008.0
                 }, 
                 {
+                  "color": "rgb(129, 191, 255)", 
                   "name": "FtsA", 
                   "size": 239820.0
                 }, 
                 {
+                  "color": "rgb(125, 187, 255)", 
                   "name": "FtsE", 
                   "size": 85026.0
                 }, 
                 {
+                  "color": "rgb(139, 200, 255)", 
                   "name": "FtsN", 
                   "size": 4785.0
                 }, 
                 {
+                  "color": "rgb(139, 200, 255)", 
                   "name": "ZipA", 
                   "size": 240700.0
                 }, 
                 {
+                  "color": "rgb(137, 190, 255)", 
                   "name": "ZapA", 
                   "size": 66381.0
                 }, 
                 {
+                  "color": "rgb(138, 191, 255)", 
                   "name": "AcrA", 
                   "size": 569298.0
                 }, 
                 {
+                  "color": "rgb(125, 187, 255)", 
                   "name": "Mrp", 
                   "size": 461988.0
                 }, 
                 {
+                  "color": "rgb(139, 200, 255)", 
                   "name": "Fic", 
                   "size": 30800.0
                 }
@@ -1231,12 +1531,15 @@
               "size": 8385178.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(133, 186, 242)", 
                   "name": "Mug", 
                   "size": 38304.0
                 }, 
                 {
+                  "color": "rgb(134, 189, 233)", 
                   "name": "XthA", 
                   "size": 233428.0
                 }
@@ -1245,20 +1548,25 @@
               "size": 271732.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(147, 180, 241)", 
                   "name": "Mfd", 
                   "size": 104468.0
                 }, 
                 {
+                  "color": "rgb(134, 173, 233)", 
                   "name": "UvrA", 
                   "size": 182360.0
                 }, 
                 {
+                  "color": "rgb(140, 169, 227)", 
                   "name": "UvrB", 
                   "size": 71338.0
                 }, 
                 {
+                  "color": "rgb(150, 178, 250)", 
                   "name": "UvrD", 
                   "size": 33840.0
                 }
@@ -1267,12 +1575,15 @@
               "size": 392006.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(135, 173, 232)", 
                   "name": "MutL", 
                   "size": 9225.0
                 }, 
                 {
+                  "color": "rgb(129, 168, 221)", 
                   "name": "XseB", 
                   "size": 42640.0
                 }
@@ -1281,8 +1592,10 @@
               "size": 51865.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(114, 167, 236)", 
                   "name": "RecA", 
                   "size": 640695.0
                 }
@@ -1291,28 +1604,35 @@
               "size": 640695.0
             }, 
             {
+              "color": null, 
               "name": "Non-homologous end-joining", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(133, 182, 251)", 
                   "name": "Dut", 
                   "size": 122763.0
                 }, 
                 {
+                  "color": "rgb(123, 177, 251)", 
                   "name": "RdgC", 
                   "size": 191496.0
                 }, 
                 {
+                  "color": "rgb(123, 167, 232)", 
                   "name": "NrdE", 
                   "size": 1215317.0
                 }, 
                 {
+                  "color": "rgb(124, 177, 246)", 
                   "name": "NrdF", 
                   "size": 421496.0
                 }, 
                 {
+                  "color": "rgb(132, 179, 255)", 
                   "name": "HelD", 
                   "size": 286596.0
                 }
@@ -1325,8 +1645,10 @@
           "size": 18133371.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Non-coding RNAs", 
               "size": 0
             }
@@ -1339,136 +1661,171 @@
       "size": 414366998.0
     }, 
     {
+      "color": null, 
       "children": [
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Ras signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Rap1 signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Hippo signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "NF-kappa B signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "TNF signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "HIF-1 signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "PI3K-Akt signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "FoxO signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Other signaling pathways", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(199, 177, 0)", 
                   "name": "PstS", 
                   "size": 452568.0
                 }, 
                 {
+                  "color": "rgb(196, 179, 0)", 
                   "name": "PhoP", 
                   "size": 457596.0
                 }, 
                 {
+                  "color": "rgb(196, 180, 0)", 
                   "name": "OmpR", 
                   "size": 340814.0
                 }, 
                 {
+                  "color": "rgb(190, 175, 0)", 
                   "name": "RstA", 
                   "size": 19359.0
                 }, 
                 {
+                  "color": "rgb(207, 178, 0)", 
                   "name": "CpxR", 
                   "size": 481168.0
                 }, 
                 {
+                  "color": "rgb(188, 169, 0)", 
                   "name": "BaeR", 
                   "size": 24720.0
                 }, 
                 {
+                  "color": "rgb(208, 181, 0)", 
                   "name": "BasR", 
                   "size": 167832.0
                 }, 
                 {
+                  "color": "rgb(194, 177, 0)", 
                   "name": "CusR", 
                   "size": 42676.0
                 }, 
                 {
+                  "color": "rgb(211, 183, 0)", 
                   "name": "CusC", 
                   "size": 78660.0
                 }, 
                 {
+                  "color": "rgb(195, 171, 0)", 
                   "name": "CusF", 
                   "size": 225610.0
                 }, 
                 {
+                  "color": "rgb(194, 172, 0)", 
                   "name": "CusB", 
                   "size": 118030.0
                 }, 
                 {
+                  "color": "rgb(214, 187, 0)", 
                   "name": "ArcB", 
                   "size": 93360.0
                 }, 
                 {
+                  "color": "rgb(194, 177, 0)", 
                   "name": "ArcA", 
                   "size": 1820098.0
                 }, 
                 {
+                  "color": "rgb(214, 187, 0)", 
                   "name": "NarL", 
                   "size": 266328.0
                 }, 
                 {
+                  "color": "rgb(209, 184, 0)", 
                   "name": "NarP", 
                   "size": 59850.0
                 }, 
                 {
+                  "color": "rgb(201, 185, 0)", 
                   "name": "FrdA", 
                   "size": 82474.0
                 }, 
                 {
+                  "color": "rgb(187, 173, 0)", 
                   "name": "FrdB", 
                   "size": 59780.0
                 }, 
                 {
+                  "color": "rgb(209, 184, 0)", 
                   "name": "RcsD", 
                   "size": 47170.0
                 }, 
                 {
+                  "color": "rgb(196, 179, 0)", 
                   "name": "RcsB", 
                   "size": 616896.0
                 }, 
                 {
+                  "color": "rgb(208, 185, 0)", 
                   "name": "UvrY", 
                   "size": 28558.0
                 }, 
                 {
+                  "color": "rgb(197, 178, 0)", 
                   "name": "CsrA", 
                   "size": 430050.0
                 }, 
                 {
+                  "color": "rgb(209, 187, 0)", 
                   "name": "GlnD", 
                   "size": 19580.0
                 }, 
                 {
+                  "color": "rgb(197, 178, 0)", 
                   "name": "GlnB", 
                   "size": 226128.0
                 }
@@ -1477,44 +1834,55 @@
               "size": 6159305.0
             }, 
             {
+              "color": null, 
               "name": "MAPK signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "ErbB signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Wnt signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Notch signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Hedgehog signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "TGF-beta signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "VEGF signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Jak-STAT signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Calcium signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(201, 175, 0)", 
                   "name": "SuhB", 
                   "size": 354576.0
                 }
@@ -1523,10 +1891,12 @@
               "size": 354576.0
             }, 
             {
+              "color": null, 
               "name": "mTOR signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Plant hormone signal transduction", 
               "size": 0
             }
@@ -1535,64 +1905,80 @@
           "size": 6513881.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Insulin secretion", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "G protein-coupled receptors", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Enzyme-linked receptors", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Cytokine receptors", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Ion channels", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Neuroactive ligand-receptor interaction", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Cytokine-cytokine receptor interaction", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Cytokines", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "ECM-receptor interaction", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Cell adhesion molecules (CAMs)", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "CAM ligands", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Cellular antigens", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "GTP-binding signaling proteins", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Glycan binding proteins", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Bacterial toxins", 
               "size": 0
             }
@@ -1605,10 +1991,13 @@
       "size": 6513881.0
     }, 
     {
+      "color": null, 
       "children": [
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Hemoglobin", 
               "size": 0
             }
@@ -1617,24 +2006,30 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Endocytosis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Phagosome", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Lysosome", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Peroxisome", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Regulation of autophagy", 
               "size": 0
             }
@@ -1643,34 +2038,43 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Regulation of actin cytoskeleton", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(216, 35, 61)", 
                   "name": "FtsZ", 
                   "size": 1378417.0
                 }, 
                 {
+                  "color": "rgb(222, 36, 70)", 
                   "name": "MinE", 
                   "size": 197912.0
                 }, 
                 {
+                  "color": "rgb(234, 42, 68)", 
                   "name": "MinD", 
                   "size": 759510.0
                 }, 
                 {
+                  "color": "rgb(222, 35, 70)", 
                   "name": "RodZ", 
                   "size": 215600.0
                 }, 
                 {
+                  "color": "rgb(225, 43, 68)", 
                   "name": "MinC", 
                   "size": 46431.0
                 }, 
                 {
+                  "color": "rgb(211, 34, 69)", 
                   "name": "MreB", 
                   "size": 1288411.0
                 }
@@ -1683,10 +2087,13 @@
           "size": 3886281.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(255, 12, 43)", 
                   "name": "RbsB", 
                   "size": 1645168.0
                 }
@@ -1695,8 +2102,10 @@
               "size": 1645168.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(255, 11, 36)", 
                   "name": "FliY", 
                   "size": 4689580.0
                 }
@@ -1709,10 +2118,13 @@
           "size": 6334748.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(226, 56, 69)", 
                   "name": "ZapB", 
                   "size": 2410800.0
                 }
@@ -1721,22 +2133,27 @@
               "size": 2410800.0
             }, 
             {
+              "color": null, 
               "name": "Meiosis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Oocyte meiosis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Apoptosis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "p53 signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Cell wall", 
               "size": 0
             }
@@ -1745,20 +2162,25 @@
           "size": 2410800.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Focal adhesion", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Adherens junction", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Tight junction", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Gap junction", 
               "size": 0
             }
@@ -1771,280 +2193,351 @@
       "size": 12631829.0
     }, 
     {
+      "color": null, 
       "children": [
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(157, 70, 1)", 
                   "name": "OmpF", 
                   "size": 441375.0
                 }, 
                 {
+                  "color": "rgb(150, 73, 3)", 
                   "name": "MalE", 
                   "size": 1513512.0
                 }, 
                 {
+                  "color": "rgb(146, 65, 0)", 
                   "name": "OmpA", 
                   "size": 2891700.0
                 }, 
                 {
+                  "color": "rgb(141, 67, 7)", 
                   "name": "Dppa", 
                   "size": 5601450.0
                 }, 
                 {
+                  "color": "rgb(161, 71, 2)", 
                   "name": "OmpC", 
                   "size": 248160.0
                 }, 
                 {
+                  "color": "rgb(153, 70, 4)", 
                   "name": "MsbA", 
                   "size": 48888.0
                 }, 
                 {
+                  "color": "rgb(159, 75, 1)", 
                   "name": "CysP", 
                   "size": 1940120.0
                 }, 
                 {
+                  "color": "rgb(139, 67, 6)", 
                   "name": "CysA", 
                   "size": 149285.0
                 }, 
                 {
+                  "color": "rgb(148, 64, 8)", 
                   "name": "ModA", 
                   "size": 276789.0
                 }, 
                 {
+                  "color": "rgb(161, 71, 2)", 
                   "name": "ModF", 
                   "size": 50960.0
                 }, 
                 {
+                  "color": "rgb(145, 63, 0)", 
                   "name": "ThiB", 
                   "size": 602350.0
                 }, 
                 {
+                  "color": "rgb(146, 66, 5)", 
                   "name": "PotD", 
                   "size": 1888944.0
                 }, 
                 {
+                  "color": "rgb(139, 67, 6)", 
                   "name": "PotA", 
                   "size": 169344.0
                 }, 
                 {
+                  "color": "rgb(145, 63, 0)", 
                   "name": "PotF", 
                   "size": 1063380.0
                 }, 
                 {
+                  "color": "rgb(145, 63, 0)", 
                   "name": "YdcS", 
                   "size": 80010.0
                 }, 
                 {
+                  "color": "rgb(155, 66, 8)", 
                   "name": "OsmF", 
                   "size": 374235.0
                 }, 
                 {
+                  "color": "rgb(148, 64, 8)", 
                   "name": "MalK", 
                   "size": 121317.0
                 }, 
                 {
+                  "color": "rgb(146, 66, 5)", 
                   "name": "UgpB", 
                   "size": 229297.0
                 }, 
                 {
+                  "color": "rgb(153, 70, 4)", 
                   "name": "MlaD", 
                   "size": 100450.0
                 }, 
                 {
+                  "color": "rgb(147, 67, 1)", 
                   "name": "MlaF", 
                   "size": 39200.0
                 }, 
                 {
+                  "color": "rgb(146, 63, 8)", 
                   "name": "AraF", 
                   "size": 28952.0
                 }, 
                 {
+                  "color": "rgb(145, 63, 0)", 
                   "name": "MglA", 
                   "size": 90574.0
                 }, 
                 {
+                  "color": "rgb(146, 68, 1)", 
                   "name": "AlsB", 
                   "size": 14398.0
                 }, 
                 {
+                  "color": "rgb(146, 63, 8)", 
                   "name": "LsrB", 
                   "size": 43050.0
                 }, 
                 {
+                  "color": "rgb(153, 70, 4)", 
                   "name": "YtfQ", 
                   "size": 30210.0
                 }, 
                 {
+                  "color": "rgb(146, 64, 0)", 
                   "name": "ArgT", 
                   "size": 990860.0
                 }, 
                 {
+                  "color": "rgb(152, 67, 1)", 
                   "name": "HisP", 
                   "size": 69133.0
                 }, 
                 {
+                  "color": "rgb(150, 68, 8)", 
                   "name": "HisJ", 
                   "size": 2319720.0
                 }, 
                 {
+                  "color": "rgb(150, 73, 3)", 
                   "name": "GlnH", 
                   "size": 2258288.0
                 }, 
                 {
+                  "color": "rgb(145, 63, 0)", 
                   "name": "GlnQ", 
                   "size": 309120.0
                 }, 
                 {
+                  "color": "rgb(154, 65, 7)", 
                   "name": "ArtJ", 
                   "size": 2917215.0
                 }, 
                 {
+                  "color": "rgb(152, 73, 1)", 
                   "name": "ArtI", 
                   "size": 1127763.0
                 }, 
                 {
+                  "color": "rgb(149, 69, 9)", 
                   "name": "ArtP", 
                   "size": 99462.0
                 }, 
                 {
+                  "color": "rgb(140, 67, 2)", 
                   "name": "GltI", 
                   "size": 944958.0
                 }, 
                 {
+                  "color": "rgb(140, 67, 2)", 
                   "name": "YecC", 
                   "size": 131000.0
                 }, 
                 {
+                  "color": "rgb(146, 69, 8)", 
                   "name": "LivJ", 
                   "size": 9954875.0
                 }, 
                 {
+                  "color": "rgb(144, 67, 3)", 
                   "name": "LivG", 
                   "size": 113220.0
                 }, 
                 {
+                  "color": "rgb(161, 71, 2)", 
                   "name": "LivF", 
                   "size": 147414.0
                 }, 
                 {
+                  "color": "rgb(145, 63, 0)", 
                   "name": "NlpA", 
                   "size": 658512.0
                 }, 
                 {
+                  "color": "rgb(150, 73, 3)", 
                   "name": "MetN", 
                   "size": 284004.0
                 }, 
                 {
+                  "color": "rgb(159, 75, 1)", 
                   "name": "DppD", 
                   "size": 235440.0
                 }, 
                 {
+                  "color": "rgb(153, 70, 4)", 
                   "name": "DppF", 
                   "size": 79826.0
                 }, 
                 {
+                  "color": "rgb(150, 73, 3)", 
                   "name": "OppA", 
                   "size": 8671710.0
                 }, 
                 {
+                  "color": "rgb(158, 67, 1)", 
                   "name": "GsiB", 
                   "size": 502272.0
                 }, 
                 {
+                  "color": "rgb(152, 67, 1)", 
                   "name": "FecB", 
                   "size": 64872.0
                 }, 
                 {
+                  "color": "rgb(156, 70, 10)", 
                   "name": "YadG", 
                   "size": 108108.0
                 }, 
                 {
+                  "color": "rgb(157, 73, 1)", 
                   "name": "LolD", 
                   "size": 50794.0
                 }, 
                 {
+                  "color": "rgb(146, 66, 5)", 
                   "name": "LptF", 
                   "size": 13300.0
                 }, 
                 {
+                  "color": "rgb(139, 67, 6)", 
                   "name": "LptG", 
                   "size": 48650.0
                 }, 
                 {
+                  "color": "rgb(155, 65, 7)", 
                   "name": "LptB", 
                   "size": 270161.0
                 }, 
                 {
+                  "color": "rgb(147, 67, 1)", 
                   "name": "SufC", 
                   "size": 58776.0
                 }, 
                 {
+                  "color": "rgb(146, 66, 5)", 
                   "name": "KgtP", 
                   "size": 100934.0
                 }, 
                 {
+                  "color": "rgb(139, 63, 7)", 
                   "name": "FryA", 
                   "size": 3947950.0
                 }, 
                 {
+                  "color": "rgb(144, 67, 3)", 
                   "name": "PtsP", 
                   "size": 65076.0
                 }, 
                 {
+                  "color": "rgb(155, 65, 7)", 
                   "name": "PtsH", 
                   "size": 1285710.0
                 }, 
                 {
+                  "color": "rgb(139, 63, 7)", 
                   "name": "Crr", 
                   "size": 4234464.0
                 }, 
                 {
+                  "color": "rgb(144, 67, 3)", 
                   "name": "PtsG", 
                   "size": 1141938.0
                 }, 
                 {
+                  "color": "rgb(145, 63, 0)", 
                   "name": "NagE", 
                   "size": 211248.0
                 }, 
                 {
+                  "color": "rgb(139, 63, 7)", 
                   "name": "FruB", 
                   "size": 119944.0
                 }, 
                 {
+                  "color": "rgb(144, 67, 3)", 
                   "name": "FruA", 
                   "size": 103592.0
                 }, 
                 {
+                  "color": "rgb(157, 70, 1)", 
                   "name": "CmtB", 
                   "size": 214669.0
                 }, 
                 {
+                  "color": "rgb(153, 70, 4)", 
                   "name": "ChbB", 
                   "size": 25122.0
                 }, 
                 {
+                  "color": "rgb(146, 68, 1)", 
                   "name": "SgcA", 
                   "size": 1232550.0
                 }, 
                 {
+                  "color": "rgb(155, 65, 7)", 
                   "name": "ManX", 
                   "size": 2677347.0
                 }, 
                 {
+                  "color": "rgb(139, 63, 7)", 
                   "name": "ManY", 
                   "size": 225568.0
                 }, 
                 {
+                  "color": "rgb(144, 67, 3)", 
                   "name": "ManZ", 
                   "size": 368082.0
                 }, 
                 {
+                  "color": "rgb(146, 63, 8)", 
                   "name": "PtsN", 
                   "size": 173595.0
                 }, 
                 {
+                  "color": "rgb(155, 65, 7)", 
                   "name": "RbsD", 
                   "size": 36835.0
                 }
@@ -2053,8 +2546,10 @@
               "size": 66632027.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(144, 67, 0)", 
                   "name": "TolC", 
                   "size": 120285.0
                 }
@@ -2063,6 +2558,7 @@
               "size": 120285.0
             }, 
             {
+              "color": null, 
               "name": "Secretion system", 
               "size": 0
             }
@@ -2071,166 +2567,208 @@
           "size": 66752312.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(171, 96, 42)", 
                   "name": "HchA", 
                   "size": 777350.0
                 }, 
                 {
+                  "color": "rgb(181, 101, 36)", 
                   "name": "PpsA", 
                   "size": 363300.0
                 }, 
                 {
+                  "color": "rgb(176, 98, 35)", 
                   "name": "MaeA", 
                   "size": 979710.0
                 }, 
                 {
+                  "color": "rgb(167, 97, 37)", 
                   "name": "Eno", 
                   "size": 13986432.0
                 }, 
                 {
+                  "color": "rgb(169, 93, 42)", 
                   "name": "YtjC", 
                   "size": 95890.0
                 }, 
                 {
+                  "color": "rgb(181, 105, 37)", 
                   "name": "PykF", 
                   "size": 4684490.0
                 }, 
                 {
+                  "color": "rgb(169, 93, 42)", 
                   "name": "Fbp", 
                   "size": 396076.0
                 }, 
                 {
+                  "color": "rgb(181, 101, 36)", 
                   "name": "GapA", 
                   "size": 10364603.0
                 }, 
                 {
+                  "color": "rgb(169, 99, 36)", 
                   "name": "YeaD", 
                   "size": 184926.0
                 }, 
                 {
+                  "color": "rgb(163, 96, 35)", 
                   "name": "LldD", 
                   "size": 35640.0
                 }, 
                 {
+                  "color": "rgb(176, 100, 39)", 
                   "name": "MgsA", 
                   "size": 161728.0
                 }, 
                 {
+                  "color": "rgb(179, 97, 42)", 
                   "name": "GhrA", 
                   "size": 196560.0
                 }, 
                 {
+                  "color": "rgb(167, 92, 33)", 
                   "name": "FucO", 
                   "size": 22980.0
                 }, 
                 {
+                  "color": "rgb(176, 98, 35)", 
                   "name": "YccX", 
                   "size": 11592.0
                 }, 
                 {
+                  "color": "rgb(180, 98, 44)", 
                   "name": "GloA", 
                   "size": 173340.0
                 }, 
                 {
+                  "color": "rgb(169, 93, 42)", 
                   "name": "GloB", 
                   "size": 111444.0
                 }, 
                 {
+                  "color": "rgb(169, 100, 42)", 
                   "name": "Pta", 
                   "size": 994602.0
                 }, 
                 {
+                  "color": "rgb(167, 92, 33)", 
                   "name": "PoxB", 
                   "size": 780780.0
                 }, 
                 {
+                  "color": "rgb(167, 97, 37)", 
                   "name": "Dld", 
                   "size": 593269.0
                 }, 
                 {
+                  "color": "rgb(181, 105, 37)", 
                   "name": "GlcB", 
                   "size": 792408.0
                 }, 
                 {
+                  "color": "rgb(186, 103, 38)", 
                   "name": "LdhA", 
                   "size": 330974.0
                 }, 
                 {
+                  "color": "rgb(170, 97, 40)", 
                   "name": "PflD", 
                   "size": 5905960.0
                 }, 
                 {
+                  "color": "rgb(170, 97, 40)", 
                   "name": "Glk", 
                   "size": 318432.0
                 }, 
                 {
+                  "color": "rgb(174, 104, 38)", 
                   "name": "Pgi", 
                   "size": 3162240.0
                 }, 
                 {
+                  "color": "rgb(171, 98, 35)", 
                   "name": "PfkB", 
                   "size": 209560.0
                 }, 
                 {
+                  "color": "rgb(167, 92, 33)", 
                   "name": "FbaB", 
                   "size": 2257464.0
                 }, 
                 {
+                  "color": "rgb(171, 98, 35)", 
                   "name": "FbaA", 
                   "size": 7204412.0
                 }, 
                 {
+                  "color": "rgb(167, 92, 33)", 
                   "name": "TpiA", 
                   "size": 2034390.0
                 }, 
                 {
+                  "color": "rgb(181, 105, 37)", 
                   "name": "Pgk", 
                   "size": 7304238.0
                 }, 
                 {
+                  "color": "rgb(174, 104, 38)", 
                   "name": "AceE", 
                   "size": 8971118.0
                 }, 
                 {
+                  "color": "rgb(176, 100, 39)", 
                   "name": "AceF", 
                   "size": 4081140.0
                 }, 
                 {
+                  "color": "rgb(171, 98, 35)", 
                   "name": "Lpd", 
                   "size": 7658418.0
                 }, 
                 {
+                  "color": "rgb(172, 95, 43)", 
                   "name": "FrmA", 
                   "size": 277119.0
                 }, 
                 {
+                  "color": "rgb(171, 98, 35)", 
                   "name": "AdhE", 
                   "size": 9072162.0
                 }, 
                 {
+                  "color": "rgb(162, 92, 40)", 
                   "name": "Acs", 
                   "size": 968872.0
                 }, 
                 {
+                  "color": "rgb(179, 97, 42)", 
                   "name": "GalM", 
                   "size": 421774.0
                 }, 
                 {
+                  "color": "rgb(184, 108, 38)", 
                   "name": "Agp", 
                   "size": 288687.0
                 }, 
                 {
+                  "color": "rgb(170, 97, 40)", 
                   "name": "Pgm", 
                   "size": 1094184.0
                 }, 
                 {
+                  "color": "rgb(181, 101, 36)", 
                   "name": "Pck", 
                   "size": 1155060.0
                 }, 
                 {
+                  "color": "rgb(181, 101, 36)", 
                   "name": "BglB", 
                   "size": 542228.0
                 }
@@ -2239,76 +2777,95 @@
               "size": 98965552.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(190, 106, 35)", 
                   "name": "Icd", 
                   "size": 9683648.0
                 }, 
                 {
+                  "color": "rgb(179, 107, 32)", 
                   "name": "MaeB", 
                   "size": 1272843.0
                 }, 
                 {
+                  "color": "rgb(181, 107, 34)", 
                   "name": "Ppc", 
                   "size": 7139055.0
                 }, 
                 {
+                  "color": "rgb(200, 115, 30)", 
                   "name": "GltA", 
                   "size": 3354085.0
                 }, 
                 {
+                  "color": "rgb(186, 103, 35)", 
                   "name": "YbhJ", 
                   "size": 1201068.0
                 }, 
                 {
+                  "color": "rgb(188, 108, 33)", 
                   "name": "AcnB", 
                   "size": 6787655.0
                 }, 
                 {
+                  "color": "rgb(179, 107, 32)", 
                   "name": "SucA", 
                   "size": 3354135.0
                 }, 
                 {
+                  "color": "rgb(187, 109, 28)", 
                   "name": "SucB", 
                   "size": 2794500.0
                 }, 
                 {
+                  "color": "rgb(184, 102, 26)", 
                   "name": "SucD", 
                   "size": 2718912.0
                 }, 
                 {
+                  "color": "rgb(189, 109, 28)", 
                   "name": "SucC", 
                   "size": 3836156.0
                 }, 
                 {
+                  "color": "rgb(203, 119, 30)", 
                   "name": "SdhA", 
                   "size": 2461956.0
                 }, 
                 {
+                  "color": "rgb(191, 108, 35)", 
                   "name": "SdhB", 
                   "size": 930104.0
                 }, 
                 {
+                  "color": "rgb(199, 112, 28)", 
                   "name": "SdhD", 
                   "size": 41745.0
                 }, 
                 {
+                  "color": "rgb(181, 107, 34)", 
                   "name": "FumA", 
                   "size": 1139840.0
                 }, 
                 {
+                  "color": "rgb(191, 108, 35)", 
                   "name": "Mdh", 
                   "size": 9800856.0
                 }, 
                 {
+                  "color": "rgb(188, 108, 33)", 
                   "name": "AceA", 
                   "size": 6093360.0
                 }, 
                 {
+                  "color": "rgb(191, 108, 35)", 
                   "name": "GarR", 
                   "size": 17346.0
                 }, 
                 {
+                  "color": "rgb(203, 119, 30)", 
                   "name": "Eda", 
                   "size": 1093329.0
                 }
@@ -2317,52 +2874,65 @@
               "size": 63720593.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(203, 88, 39)", 
                   "name": "Zwf", 
                   "size": 895093.0
                 }, 
                 {
+                  "color": "rgb(203, 91, 42)", 
                   "name": "Pgl", 
                   "size": 767920.0
                 }, 
                 {
+                  "color": "rgb(200, 89, 46)", 
                   "name": "Gnd", 
                   "size": 8191404.0
                 }, 
                 {
+                  "color": "rgb(197, 89, 40)", 
                   "name": "Rpe", 
                   "size": 689850.0
                 }, 
                 {
+                  "color": "rgb(193, 83, 37)", 
                   "name": "TktB", 
                   "size": 1559446.0
                 }, 
                 {
+                  "color": "rgb(198, 89, 39)", 
                   "name": "TalA", 
                   "size": 635476.0
                 }, 
                 {
+                  "color": "rgb(195, 83, 46)", 
                   "name": "RpiA", 
                   "size": 1031490.0
                 }, 
                 {
+                  "color": "rgb(197, 88, 44)", 
                   "name": "DeoC", 
                   "size": 333851.0
                 }, 
                 {
+                  "color": "rgb(203, 91, 42)", 
                   "name": "RbsK", 
                   "size": 43569.0
                 }, 
                 {
+                  "color": "rgb(207, 87, 46)", 
                   "name": "Prs", 
                   "size": 1703205.0
                 }, 
                 {
+                  "color": "rgb(203, 88, 39)", 
                   "name": "Gcd", 
                   "size": 344668.0
                 }, 
                 {
+                  "color": "rgb(197, 89, 40)", 
                   "name": "KdgK", 
                   "size": 51912.0
                 }
@@ -2371,92 +2941,115 @@
               "size": 16247884.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(200, 101, 35)", 
                   "name": "GlgP", 
                   "size": 475145.0
                 }, 
                 {
+                  "color": "rgb(199, 100, 33)", 
                   "name": "DeoB", 
                   "size": 577533.0
                 }, 
                 {
+                  "color": "rgb(207, 112, 35)", 
                   "name": "YbhC", 
                   "size": 56791.0
                 }, 
                 {
+                  "color": "rgb(199, 100, 33)", 
                   "name": "UxuA", 
                   "size": 113078.0
                 }, 
                 {
+                  "color": "rgb(191, 99, 34)", 
                   "name": "UxuB", 
                   "size": 20898.0
                 }, 
                 {
+                  "color": "rgb(201, 108, 28)", 
                   "name": "GalU", 
                   "size": 777650.0
                 }, 
                 {
+                  "color": "rgb(189, 102, 27)", 
                   "name": "Mak", 
                   "size": 77010.0
                 }, 
                 {
+                  "color": "rgb(201, 108, 28)", 
                   "name": "ManA", 
                   "size": 607614.0
                 }, 
                 {
+                  "color": "rgb(195, 104, 30)", 
                   "name": "YedP", 
                   "size": 60162.0
                 }, 
                 {
+                  "color": "rgb(187, 98, 25)", 
                   "name": "YfbT", 
                   "size": 135198.0
                 }, 
                 {
+                  "color": "rgb(195, 101, 26)", 
                   "name": "MtlD", 
                   "size": 268546.0
                 }, 
                 {
+                  "color": "rgb(201, 108, 28)", 
                   "name": "FruK", 
                   "size": 72072.0
                 }, 
                 {
+                  "color": "rgb(199, 100, 33)", 
                   "name": "GalK", 
                   "size": 76018.0
                 }, 
                 {
+                  "color": "rgb(183, 100, 32)", 
                   "name": "GalE", 
                   "size": 226062.0
                 }, 
                 {
+                  "color": "rgb(199, 100, 33)", 
                   "name": "BglX", 
                   "size": 234855.0
                 }, 
                 {
+                  "color": "rgb(200, 101, 35)", 
                   "name": "OtsA", 
                   "size": 218988.0
                 }, 
                 {
+                  "color": "rgb(187, 96, 33)", 
                   "name": "OtsB", 
                   "size": 25270.0
                 }, 
                 {
+                  "color": "rgb(195, 104, 30)", 
                   "name": "TreF", 
                   "size": 224870.0
                 }, 
                 {
+                  "color": "rgb(199, 100, 33)", 
                   "name": "GlgC", 
                   "size": 452454.0
                 }, 
                 {
+                  "color": "rgb(193, 108, 29)", 
                   "name": "GlgA", 
                   "size": 421668.0
                 }, 
                 {
+                  "color": "rgb(207, 112, 35)", 
                   "name": "GlgB", 
                   "size": 295568.0
                 }, 
                 {
+                  "color": "rgb(195, 104, 30)", 
                   "name": "AmyA", 
                   "size": 71280.0
                 }
@@ -2465,104 +3058,130 @@
               "size": 5488730.0
             }, 
             {
+              "color": null, 
               "name": "Pyruvate metabolism", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Butanoate metabolism", 
               "size": 0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(156, 91, 41)", 
                   "name": "YdbK", 
                   "size": 30450.0
                 }, 
                 {
+                  "color": "rgb(168, 91, 35)", 
                   "name": "GabD", 
                   "size": 536466.0
                 }, 
                 {
+                  "color": "rgb(161, 87, 42)", 
                   "name": "AckA", 
                   "size": 728400.0
                 }, 
                 {
+                  "color": "rgb(161, 87, 42)", 
                   "name": "GcvH", 
                   "size": 717850.0
                 }, 
                 {
+                  "color": "rgb(168, 91, 35)", 
                   "name": "GhrB", 
                   "size": 895212.0
                 }, 
                 {
+                  "color": "rgb(176, 101, 37)", 
                   "name": "GabT", 
                   "size": 602364.0
                 }, 
                 {
+                  "color": "rgb(162, 91, 40)", 
                   "name": "FolA", 
                   "size": 64872.0
                 }, 
                 {
+                  "color": "rgb(168, 94, 38)", 
                   "name": "FolD", 
                   "size": 244224.0
                 }, 
                 {
+                  "color": "rgb(165, 92, 42)", 
                   "name": "GlyA", 
                   "size": 6561495.0
                 }, 
                 {
+                  "color": "rgb(168, 94, 38)", 
                   "name": "PurN", 
                   "size": 69225.0
                 }, 
                 {
+                  "color": "rgb(161, 94, 42)", 
                   "name": "PurT", 
                   "size": 376320.0
                 }, 
                 {
+                  "color": "rgb(172, 95, 36)", 
                   "name": "PurH", 
                   "size": 1280709.0
                 }, 
                 {
+                  "color": "rgb(154, 91, 39)", 
                   "name": "GcvT", 
                   "size": 133588.0
                 }, 
                 {
+                  "color": "rgb(162, 91, 40)", 
                   "name": "MetH", 
                   "size": 717795.0
                 }, 
                 {
+                  "color": "rgb(154, 91, 39)", 
                   "name": "ThyA", 
                   "size": 98208.0
                 }, 
                 {
+                  "color": "rgb(173, 98, 37)", 
                   "name": "MetF", 
                   "size": 938320.0
                 }, 
                 {
+                  "color": "rgb(165, 98, 38)", 
                   "name": "NagZ", 
                   "size": 60698.0
                 }, 
                 {
+                  "color": "rgb(176, 101, 37)", 
                   "name": "MurQ", 
                   "size": 20562.0
                 }, 
                 {
+                  "color": "rgb(165, 98, 38)", 
                   "name": "GlmU", 
                   "size": 242592.0
                 }, 
                 {
+                  "color": "rgb(154, 91, 39)", 
                   "name": "GlmM", 
                   "size": 659045.0
                 }, 
                 {
+                  "color": "rgb(162, 91, 40)", 
                   "name": "NagB", 
                   "size": 342608.0
                 }, 
                 {
+                  "color": "rgb(172, 95, 36)", 
                   "name": "CobB", 
                   "size": 157500.0
                 }, 
                 {
+                  "color": "rgb(164, 89, 42)", 
                   "name": "ArnC", 
                   "size": 32200.0
                 }
@@ -2575,78 +3194,98 @@
           "size": 199933462.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(217, 144, 69)", 
                   "name": "NuoA", 
                   "size": 64386.0
                 }, 
                 {
+                  "color": "rgb(234, 158, 74)", 
                   "name": "NuoB", 
                   "size": 198220.0
                 }, 
                 {
+                  "color": "rgb(226, 147, 72)", 
                   "name": "NuoC", 
                   "size": 1376760.0
                 }, 
                 {
+                  "color": "rgb(204, 142, 66)", 
                   "name": "NuoF", 
                   "size": 332415.0
                 }, 
                 {
+                  "color": "rgb(210, 137, 60)", 
                   "name": "NuoG", 
                   "size": 1829100.0
                 }, 
                 {
+                  "color": "rgb(232, 158, 67)", 
                   "name": "NuoI", 
                   "size": 221760.0
                 }, 
                 {
+                  "color": "rgb(212, 144, 65)", 
                   "name": "Ndh", 
                   "size": 308140.0
                 }, 
                 {
+                  "color": "rgb(225, 145, 70)", 
                   "name": "CyoB", 
                   "size": 2147457.0
                 }, 
                 {
+                  "color": "rgb(208, 143, 68)", 
                   "name": "CyoA", 
                   "size": 992880.0
                 }, 
                 {
+                  "color": "rgb(204, 142, 66)", 
                   "name": "CydA", 
                   "size": 611784.0
                 }, 
                 {
+                  "color": "rgb(210, 137, 60)", 
                   "name": "CydB", 
                   "size": 206176.0
                 }, 
                 {
+                  "color": "rgb(227, 150, 64)", 
                   "name": "AtpC", 
                   "size": 1086285.0
                 }, 
                 {
+                  "color": "rgb(217, 144, 69)", 
                   "name": "AtpD", 
                   "size": 8935960.0
                 }, 
                 {
+                  "color": "rgb(221, 145, 63)", 
                   "name": "AtpG", 
                   "size": 1220898.0
                 }, 
                 {
+                  "color": "rgb(213, 141, 61)", 
                   "name": "AtpA", 
                   "size": 6235515.0
                 }, 
                 {
+                  "color": "rgb(234, 158, 74)", 
                   "name": "AtpH", 
                   "size": 903408.0
                 }, 
                 {
+                  "color": "rgb(210, 137, 60)", 
                   "name": "AtpF", 
                   "size": 565188.0
                 }, 
                 {
+                  "color": "rgb(216, 146, 63)", 
                   "name": "Ppa", 
                   "size": 2688752.0
                 }
@@ -2655,18 +3294,22 @@
               "size": 29925084.0
             }, 
             {
+              "color": null, 
               "name": "Photosynthesis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Photosynthesis - antenna proteins", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Carbon fixation in photosynthetic organisms", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Methane metabolism", 
               "size": 0
             }
@@ -2675,118 +3318,148 @@
           "size": 29925084.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(246, 150, 29)", 
                   "name": "GlpK", 
                   "size": 121986.0
                 }, 
                 {
+                  "color": "rgb(238, 142, 27)", 
                   "name": "AccB", 
                   "size": 632580.0
                 }, 
                 {
+                  "color": "rgb(233, 142, 32)", 
                   "name": "AcpP", 
                   "size": 10953600.0
                 }, 
                 {
+                  "color": "rgb(246, 150, 29)", 
                   "name": "AccA", 
                   "size": 978054.0
                 }, 
                 {
+                  "color": "rgb(238, 144, 30)", 
                   "name": "FabD", 
                   "size": 1772424.0
                 }, 
                 {
+                  "color": "rgb(232, 143, 27)", 
                   "name": "AccD", 
                   "size": 453872.0
                 }, 
                 {
+                  "color": "rgb(233, 142, 32)", 
                   "name": "AccC", 
                   "size": 1109928.0
                 }, 
                 {
+                  "color": "rgb(229, 136, 34)", 
                   "name": "FadB", 
                   "size": 184437.0
                 }, 
                 {
+                  "color": "rgb(246, 150, 29)", 
                   "name": "FadJ", 
                   "size": 1428.0
                 }, 
                 {
+                  "color": "rgb(233, 142, 32)", 
                   "name": "FabB", 
                   "size": 1544424.0
                 }, 
                 {
+                  "color": "rgb(246, 147, 28)", 
                   "name": "FabF", 
                   "size": 673603.0
                 }, 
                 {
+                  "color": "rgb(246, 150, 29)", 
                   "name": "FabH", 
                   "size": 836246.0
                 }, 
                 {
+                  "color": "rgb(250, 155, 29)", 
                   "name": "FabG", 
                   "size": 1564040.0
                 }, 
                 {
+                  "color": "rgb(250, 155, 29)", 
                   "name": "FabZ", 
                   "size": 1137930.0
                 }, 
                 {
+                  "color": "rgb(238, 144, 30)", 
                   "name": "FabA", 
                   "size": 1231176.0
                 }, 
                 {
+                  "color": "rgb(237, 149, 30)", 
                   "name": "FabI", 
                   "size": 3949388.0
                 }, 
                 {
+                  "color": "rgb(221, 139, 32)", 
                   "name": "FadA", 
                   "size": 75852.0
                 }, 
                 {
+                  "color": "rgb(232, 143, 27)", 
                   "name": "FadE", 
                   "size": 78144.0
                 }, 
                 {
+                  "color": "rgb(232, 144, 34)", 
                   "name": "DhaK", 
                   "size": 332860.0
                 }, 
                 {
+                  "color": "rgb(248, 146, 29)", 
                   "name": "DhaL", 
                   "size": 73920.0
                 }, 
                 {
+                  "color": "rgb(237, 149, 30)", 
                   "name": "PlsB", 
                   "size": 332454.0
                 }, 
                 {
+                  "color": "rgb(227, 135, 26)", 
                   "name": "GpsA", 
                   "size": 109497.0
                 }, 
                 {
+                  "color": "rgb(237, 149, 30)", 
                   "name": "UgpQ", 
                   "size": 50388.0
                 }, 
                 {
+                  "color": "rgb(246, 147, 28)", 
                   "name": "PssA", 
                   "size": 924300.0
                 }, 
                 {
+                  "color": "rgb(221, 139, 32)", 
                   "name": "Psd", 
                   "size": 339388.0
                 }, 
                 {
+                  "color": "rgb(234, 143, 27)", 
                   "name": "TesA", 
                   "size": 52208.0
                 }, 
                 {
+                  "color": "rgb(250, 155, 29)", 
                   "name": "TesB", 
                   "size": 76076.0
                 }, 
                 {
+                  "color": "rgb(245, 147, 27)", 
                   "name": "FadM", 
                   "size": 21000.0
                 }
@@ -2795,120 +3468,150 @@
               "size": 29611203.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(202, 148, 34)", 
                   "name": "PurU", 
                   "size": 420280.0
                 }, 
                 {
+                  "color": "rgb(208, 143, 28)", 
                   "name": "NudF", 
                   "size": 48906.0
                 }, 
                 {
+                  "color": "rgb(212, 152, 30)", 
                   "name": "PurD", 
                   "size": 820248.0
                 }, 
                 {
+                  "color": "rgb(213, 151, 34)", 
                   "name": "PurL", 
                   "size": 4207455.0
                 }, 
                 {
+                  "color": "rgb(210, 145, 36)", 
                   "name": "PurM", 
                   "size": 878850.0
                 }, 
                 {
+                  "color": "rgb(224, 153, 38)", 
                   "name": "PurE", 
                   "size": 902460.0
                 }, 
                 {
+                  "color": "rgb(218, 154, 33)", 
                   "name": "PurC", 
                   "size": 1391190.0
                 }, 
                 {
+                  "color": "rgb(212, 152, 30)", 
                   "name": "PurB", 
                   "size": 1713192.0
                 }, 
                 {
+                  "color": "rgb(223, 151, 36)", 
                   "name": "Apt", 
                   "size": 353190.0
                 }, 
                 {
+                  "color": "rgb(218, 154, 33)", 
                   "name": "UshA", 
                   "size": 376200.0
                 }, 
                 {
+                  "color": "rgb(212, 152, 30)", 
                   "name": "YfbR", 
                   "size": 15920.0
                 }, 
                 {
+                  "color": "rgb(224, 153, 38)", 
                   "name": "DeoD", 
                   "size": 606343.0
                 }, 
                 {
+                  "color": "rgb(214, 152, 29)", 
                   "name": "Hpt", 
                   "size": 317730.0
                 }, 
                 {
+                  "color": "rgb(210, 145, 36)", 
                   "name": "GuaB", 
                   "size": 4565240.0
                 }, 
                 {
+                  "color": "rgb(214, 152, 29)", 
                   "name": "Ndk", 
                   "size": 1752465.0
                 }, 
                 {
+                  "color": "rgb(224, 153, 38)", 
                   "name": "Gpt", 
                   "size": 285912.0
                 }, 
                 {
+                  "color": "rgb(214, 152, 29)", 
                   "name": "GuaC", 
                   "size": 321669.0
                 }, 
                 {
+                  "color": "rgb(218, 154, 33)", 
                   "name": "Gmk", 
                   "size": 74520.0
                 }, 
                 {
+                  "color": "rgb(202, 148, 34)", 
                   "name": "Ppx", 
                   "size": 28215.0
                 }, 
                 {
+                  "color": "rgb(218, 154, 33)", 
                   "name": "RelA", 
                   "size": 98952.0
                 }, 
                 {
+                  "color": "rgb(224, 153, 38)", 
                   "name": "PurA", 
                   "size": 4289760.0
                 }, 
                 {
+                  "color": "rgb(223, 151, 36)", 
                   "name": "Add", 
                   "size": 85914.0
                 }, 
                 {
+                  "color": "rgb(225, 156, 30)", 
                   "name": "Amn", 
                   "size": 163485.0
                 }, 
                 {
+                  "color": "rgb(208, 143, 28)", 
                   "name": "CpdB", 
                   "size": 114519.0
                 }, 
                 {
+                  "color": "rgb(223, 151, 36)", 
                   "name": "Adk", 
                   "size": 1438294.0
                 }, 
                 {
+                  "color": "rgb(214, 152, 29)", 
                   "name": "RdgB", 
                   "size": 88847.0
                 }, 
                 {
+                  "color": "rgb(214, 152, 29)", 
                   "name": "ApaH", 
                   "size": 33558.0
                 }, 
                 {
+                  "color": "rgb(205, 149, 35)", 
                   "name": "CysN", 
                   "size": 1484850.0
                 }, 
                 {
+                  "color": "rgb(223, 151, 36)", 
                   "name": "CysD", 
                   "size": 1445372.0
                 }
@@ -2917,72 +3620,90 @@
               "size": 28323536.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(210, 133, 33)", 
                   "name": "Tmk", 
                   "size": 22152.0
                 }, 
                 {
+                  "color": "rgb(206, 137, 32)", 
                   "name": "CarB", 
                   "size": 3760865.0
                 }, 
                 {
+                  "color": "rgb(223, 139, 33)", 
                   "name": "CarA", 
                   "size": 1459622.0
                 }, 
                 {
+                  "color": "rgb(219, 142, 30)", 
                   "name": "PyrB", 
                   "size": 5268340.0
                 }, 
                 {
+                  "color": "rgb(232, 152, 35)", 
                   "name": "PyrI", 
                   "size": 2922606.0
                 }, 
                 {
+                  "color": "rgb(210, 133, 33)", 
                   "name": "PyrC", 
                   "size": 779868.0
                 }, 
                 {
+                  "color": "rgb(217, 146, 29)", 
                   "name": "PyrD", 
                   "size": 308112.0
                 }, 
                 {
+                  "color": "rgb(210, 133, 33)", 
                   "name": "PyrF", 
                   "size": 176155.0
                 }, 
                 {
+                  "color": "rgb(225, 147, 28)", 
                   "name": "Cmk", 
                   "size": 130071.0
                 }, 
                 {
+                  "color": "rgb(223, 139, 33)", 
                   "name": "PyrH", 
                   "size": 478385.0
                 }, 
                 {
+                  "color": "rgb(206, 137, 32)", 
                   "name": "PyrG", 
                   "size": 767905.0
                 }, 
                 {
+                  "color": "rgb(212, 141, 27)", 
                   "name": "Udp", 
                   "size": 1116838.0
                 }, 
                 {
+                  "color": "rgb(230, 152, 28)", 
                   "name": "Upp", 
                   "size": 3732560.0
                 }, 
                 {
+                  "color": "rgb(225, 147, 28)", 
                   "name": "CodA", 
                   "size": 1218240.0
                 }, 
                 {
+                  "color": "rgb(219, 142, 30)", 
                   "name": "TrxB", 
                   "size": 1290420.0
                 }, 
                 {
+                  "color": "rgb(224, 141, 34)", 
                   "name": "Cdd", 
                   "size": 209622.0
                 }, 
                 {
+                  "color": "rgb(206, 137, 32)", 
                   "name": "DeoA", 
                   "size": 84480.0
                 }
@@ -2991,428 +3712,535 @@
               "size": 23726241.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(255, 196, 34)", 
                   "name": "GadA", 
                   "size": 1117934.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "CysK", 
                   "size": 12610889.0
                 }, 
                 {
+                  "color": "rgb(250, 177, 37)", 
                   "name": "MetB", 
                   "size": 484816.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 37)", 
                   "name": "SerB", 
                   "size": 58926.0
                 }, 
                 {
+                  "color": "rgb(255, 173, 38)", 
                   "name": "GlnA", 
                   "size": 3797962.0
                 }, 
                 {
+                  "color": "rgb(250, 177, 37)", 
                   "name": "LeuA", 
                   "size": 2276096.0
                 }, 
                 {
+                  "color": "rgb(255, 173, 38)", 
                   "name": "MmuM", 
                   "size": 22940.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "SerC", 
                   "size": 4898946.0
                 }, 
                 {
+                  "color": "rgb(255, 183, 35)", 
                   "name": "IlvH", 
                   "size": 274818.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 34)", 
                   "name": "IlvI", 
                   "size": 719796.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "LeuD", 
                   "size": 2274516.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 38)", 
                   "name": "TrpA", 
                   "size": 1436212.0
                 }, 
                 {
+                  "color": "rgb(255, 184, 40)", 
                   "name": "TrpB", 
                   "size": 1329553.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "SerA", 
                   "size": 6384110.0
                 }, 
                 {
+                  "color": "rgb(246, 176, 36)", 
                   "name": "LeuC", 
                   "size": 2689752.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "AspC", 
                   "size": 3734280.0
                 }, 
                 {
+                  "color": "rgb(246, 176, 36)", 
                   "name": "AnsA", 
                   "size": 155142.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "AlaA", 
                   "size": 64400.0
                 }, 
                 {
+                  "color": "rgb(255, 173, 38)", 
                   "name": "AspA", 
                   "size": 196936.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 34)", 
                   "name": "ArgG", 
                   "size": 4680090.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "ArgH", 
                   "size": 759991.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "GltB", 
                   "size": 6838346.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 34)", 
                   "name": "GltD", 
                   "size": 1722800.0
                 }, 
                 {
+                  "color": "rgb(255, 188, 35)", 
                   "name": "GdhA", 
                   "size": 3344454.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "LysC", 
                   "size": 706277.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 34)", 
                   "name": "ThrA", 
                   "size": 4183640.0
                 }, 
                 {
+                  "color": "rgb(255, 183, 35)", 
                   "name": "MetL", 
                   "size": 227610.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 40)", 
                   "name": "Asd", 
                   "size": 7085669.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 37)", 
                   "name": "ThrB", 
                   "size": 203980.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 34)", 
                   "name": "ThrC", 
                   "size": 4020632.0
                 }, 
                 {
+                  "color": "rgb(255, 180, 31)", 
                   "name": "LtaE", 
                   "size": 336996.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "Kbl", 
                   "size": 10348.0
                 }, 
                 {
+                  "color": "rgb(255, 179, 39)", 
                   "name": "Tdh", 
                   "size": 61721.0
                 }, 
                 {
+                  "color": "rgb(246, 176, 36)", 
                   "name": "GcvP", 
                   "size": 910107.0
                 }, 
                 {
+                  "color": "rgb(255, 188, 35)", 
                   "name": "CysE", 
                   "size": 116298.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "CysM", 
                   "size": 466620.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 34)", 
                   "name": "MetC", 
                   "size": 752080.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "MetE", 
                   "size": 30013827.0
                 }, 
                 {
+                  "color": "rgb(255, 180, 33)", 
                   "name": "MetK", 
                   "size": 2617344.0
                 }, 
                 {
+                  "color": "rgb(247, 171, 37)", 
                   "name": "SpeE", 
                   "size": 207648.0
                 }, 
                 {
+                  "color": "rgb(255, 188, 35)", 
                   "name": "Mtn", 
                   "size": 287448.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "TyrB", 
                   "size": 952800.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "LuxS", 
                   "size": 1329183.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "MetA", 
                   "size": 390576.0
                 }, 
                 {
+                  "color": "rgb(247, 171, 37)", 
                   "name": "DcyD", 
                   "size": 493968.0
                 }, 
                 {
+                  "color": "rgb(255, 173, 38)", 
                   "name": "IlvE", 
                   "size": 1027116.0
                 }, 
                 {
+                  "color": "rgb(255, 187, 32)", 
                   "name": "IlvC", 
                   "size": 12102168.0
                 }, 
                 {
+                  "color": "rgb(255, 184, 40)", 
                   "name": "YjhG", 
                   "size": 81928.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 40)", 
                   "name": "LeuB", 
                   "size": 1993233.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "YjhH", 
                   "size": 469828.0
                 }, 
                 {
+                  "color": "rgb(255, 187, 32)", 
                   "name": "DapB", 
                   "size": 505869.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 37)", 
                   "name": "DapD", 
                   "size": 2104320.0
                 }, 
                 {
+                  "color": "rgb(246, 176, 36)", 
                   "name": "ArgD", 
                   "size": 1556198.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 37)", 
                   "name": "DapE", 
                   "size": 46500.0
                 }, 
                 {
+                  "color": "rgb(247, 171, 37)", 
                   "name": "DapF", 
                   "size": 100010.0
                 }, 
                 {
+                  "color": "rgb(250, 177, 37)", 
                   "name": "LysA", 
                   "size": 163380.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "ArgB", 
                   "size": 416154.0
                 }, 
                 {
+                  "color": "rgb(255, 188, 35)", 
                   "name": "ArgC", 
                   "size": 185704.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "SpeA", 
                   "size": 1087016.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "SpeB", 
                   "size": 559368.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "SpeG", 
                   "size": 18786.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "AstC", 
                   "size": 28014.0
                 }, 
                 {
+                  "color": "rgb(255, 173, 38)", 
                   "name": "ProC", 
                   "size": 277070.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "ProB", 
                   "size": 202584.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "ProA", 
                   "size": 304410.0
                 }, 
                 {
+                  "color": "rgb(255, 187, 32)", 
                   "name": "ArgF", 
                   "size": 803938.0
                 }, 
                 {
+                  "color": "rgb(255, 173, 38)", 
                   "name": "ArgA", 
                   "size": 257383.0
                 }, 
                 {
+                  "color": "rgb(255, 173, 38)", 
                   "name": "ArgE", 
                   "size": 384915.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "HisG", 
                   "size": 1216631.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "HisI", 
                   "size": 131544.0
                 }, 
                 {
+                  "color": "rgb(255, 187, 32)", 
                   "name": "HisH", 
                   "size": 224812.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 40)", 
                   "name": "HisF", 
                   "size": 251550.0
                 }, 
                 {
+                  "color": "rgb(255, 173, 38)", 
                   "name": "HisC", 
                   "size": 768248.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "HisB", 
                   "size": 790230.0
                 }, 
                 {
+                  "color": "rgb(255, 178, 39)", 
                   "name": "HisD", 
                   "size": 602392.0
                 }, 
                 {
+                  "color": "rgb(255, 183, 35)", 
                   "name": "DadA", 
                   "size": 151200.0
                 }, 
                 {
+                  "color": "rgb(255, 183, 35)", 
                   "name": "AroG", 
                   "size": 2196250.0
                 }, 
                 {
+                  "color": "rgb(255, 173, 38)", 
                   "name": "AroB", 
                   "size": 210322.0
                 }, 
                 {
+                  "color": "rgb(247, 171, 37)", 
                   "name": "AroD", 
                   "size": 74340.0
                 }, 
                 {
+                  "color": "rgb(255, 176, 30)", 
                   "name": "AroE", 
                   "size": 62288.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "AroL", 
                   "size": 70122.0
                 }, 
                 {
+                  "color": "rgb(255, 187, 32)", 
                   "name": "AroA", 
                   "size": 505995.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 37)", 
                   "name": "AroC", 
                   "size": 254848.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "TrpE", 
                   "size": 111280.0
                 }, 
                 {
+                  "color": "rgb(255, 180, 33)", 
                   "name": "TrpD", 
                   "size": 285147.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 34)", 
                   "name": "TrpC", 
                   "size": 570424.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 38)", 
                   "name": "TyrA", 
                   "size": 139502.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "PheA", 
                   "size": 301466.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 34)", 
                   "name": "AlaC", 
                   "size": 22050.0
                 }, 
                 {
+                  "color": "rgb(255, 190, 33)", 
                   "name": "HemL", 
                   "size": 1105896.0
                 }, 
                 {
+                  "color": "rgb(255, 183, 35)", 
                   "name": "RffA", 
                   "size": 50384.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "PanC", 
                   "size": 408086.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "YjdM", 
                   "size": 103896.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 37)", 
                   "name": "SufS", 
                   "size": 242788.0
                 }, 
                 {
+                  "color": "rgb(255, 180, 31)", 
                   "name": "SelD", 
                   "size": 332773.0
                 }, 
                 {
+                  "color": "rgb(250, 177, 37)", 
                   "name": "Alr", 
                   "size": 8188.0
                 }, 
                 {
+                  "color": "rgb(255, 182, 32)", 
                   "name": "DdlA", 
                   "size": 23296.0
                 }, 
                 {
+                  "color": "rgb(250, 177, 37)", 
                   "name": "GshA", 
                   "size": 98938.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "GshB", 
                   "size": 400056.0
                 }, 
                 {
+                  "color": "rgb(255, 196, 34)", 
                   "name": "Gor", 
                   "size": 378900.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 37)", 
                   "name": "Can", 
                   "size": 1002760.0
                 }, 
                 {
+                  "color": "rgb(255, 181, 37)", 
                   "name": "NadE", 
                   "size": 704825.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "CysH", 
                   "size": 341112.0
                 }, 
                 {
+                  "color": "rgb(252, 171, 30)", 
                   "name": "CysI", 
                   "size": 1670670.0
                 }, 
                 {
+                  "color": "rgb(246, 176, 36)", 
                   "name": "CysJ", 
                   "size": 2520592.0
                 }, 
                 {
+                  "color": "rgb(246, 176, 36)", 
                   "name": "CysQ", 
                   "size": 297150.0
                 }
@@ -3421,76 +4249,95 @@
               "size": 160555320.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(232, 139, 23)", 
                   "name": "MurA", 
                   "size": 319278.0
                 }, 
                 {
+                  "color": "rgb(229, 137, 15)", 
                   "name": "MurB", 
                   "size": 17442.0
                 }, 
                 {
+                  "color": "rgb(232, 139, 23)", 
                   "name": "MurC", 
                   "size": 119313.0
                 }, 
                 {
+                  "color": "rgb(235, 145, 21)", 
                   "name": "MurD", 
                   "size": 57816.0
                 }, 
                 {
+                  "color": "rgb(227, 143, 22)", 
                   "name": "MurE", 
                   "size": 120285.0
                 }, 
                 {
+                  "color": "rgb(246, 145, 22)", 
                   "name": "MurF", 
                   "size": 118424.0
                 }, 
                 {
+                  "color": "rgb(234, 146, 16)", 
                   "name": "MrcB", 
                   "size": 256576.0
                 }, 
                 {
+                  "color": "rgb(234, 146, 16)", 
                   "name": "LpxB", 
                   "size": 200932.0
                 }, 
                 {
+                  "color": "rgb(234, 146, 16)", 
                   "name": "WaaU", 
                   "size": 9100.0
                 }, 
                 {
+                  "color": "rgb(227, 143, 22)", 
                   "name": "LpxA", 
                   "size": 260952.0
                 }, 
                 {
+                  "color": "rgb(232, 139, 23)", 
                   "name": "LpxD", 
                   "size": 428296.0
                 }, 
                 {
+                  "color": "rgb(232, 139, 23)", 
                   "name": "KdsA", 
                   "size": 1189108.0
                 }, 
                 {
+                  "color": "rgb(229, 137, 15)", 
                   "name": "KdsC", 
                   "size": 86668.0
                 }, 
                 {
+                  "color": "rgb(254, 153, 18)", 
                   "name": "KdsB", 
                   "size": 190464.0
                 }, 
                 {
+                  "color": "rgb(236, 146, 16)", 
                   "name": "LpcA", 
                   "size": 539712.0
                 }, 
                 {
+                  "color": "rgb(253, 158, 17)", 
                   "name": "RfaE", 
                   "size": 519453.0
                 }, 
                 {
+                  "color": "rgb(232, 139, 23)", 
                   "name": "RfaD", 
                   "size": 1236280.0
                 }, 
                 {
+                  "color": "rgb(250, 148, 17)", 
                   "name": "Cld", 
                   "size": 302575.0
                 }
@@ -3499,212 +4346,265 @@
               "size": 5972674.0
             }, 
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(232, 159, 24)", 
                   "name": "QueC", 
                   "size": 192150.0
                 }, 
                 {
+                  "color": "rgb(251, 168, 22)", 
                   "name": "Gst", 
                   "size": 468129.0
                 }, 
                 {
+                  "color": "rgb(237, 159, 19)", 
                   "name": "BtuE", 
                   "size": 441213.0
                 }, 
                 {
+                  "color": "rgb(228, 152, 27)", 
                   "name": "PncB", 
                   "size": 300400.0
                 }, 
                 {
+                  "color": "rgb(233, 160, 20)", 
                   "name": "PepA", 
                   "size": 576438.0
                 }, 
                 {
+                  "color": "rgb(237, 161, 23)", 
                   "name": "ThiC", 
                   "size": 1246856.0
                 }, 
                 {
+                  "color": "rgb(249, 173, 21)", 
                   "name": "ThiD", 
                   "size": 474012.0
                 }, 
                 {
+                  "color": "rgb(232, 159, 24)", 
                   "name": "ThiG", 
                   "size": 418560.0
                 }, 
                 {
+                  "color": "rgb(221, 151, 25)", 
                   "name": "ThiM", 
                   "size": 497800.0
                 }, 
                 {
+                  "color": "rgb(221, 151, 25)", 
                   "name": "ThiE", 
                   "size": 363975.0
                 }, 
                 {
+                  "color": "rgb(231, 160, 20)", 
                   "name": "ThiL", 
                   "size": 76050.0
                 }, 
                 {
+                  "color": "rgb(228, 152, 27)", 
                   "name": "RibD", 
                   "size": 23488.0
                 }, 
                 {
+                  "color": "rgb(221, 151, 25)", 
                   "name": "RibB", 
                   "size": 71176.0
                 }, 
                 {
+                  "color": "rgb(224, 156, 26)", 
                   "name": "RibE", 
                   "size": 1743612.0
                 }, 
                 {
+                  "color": "rgb(231, 160, 20)", 
                   "name": "RibC", 
                   "size": 178281.0
                 }, 
                 {
+                  "color": "rgb(243, 161, 27)", 
                   "name": "Fre", 
                   "size": 88074.0
                 }, 
                 {
+                  "color": "rgb(249, 173, 21)", 
                   "name": "PdxH", 
                   "size": 200996.0
                 }, 
                 {
+                  "color": "rgb(232, 159, 24)", 
                   "name": "PdxB", 
                   "size": 365148.0
                 }, 
                 {
+                  "color": "rgb(244, 168, 21)", 
                   "name": "PdxJ", 
                   "size": 735804.0
                 }, 
                 {
+                  "color": "rgb(228, 152, 27)", 
                   "name": "NadA", 
                   "size": 124920.0
                 }, 
                 {
+                  "color": "rgb(224, 156, 26)", 
                   "name": "NadC", 
                   "size": 159489.0
                 }, 
                 {
+                  "color": "rgb(231, 160, 20)", 
                   "name": "PncA", 
                   "size": 59787.0
                 }, 
                 {
+                  "color": "rgb(252, 173, 28)", 
                   "name": "SthA", 
                   "size": 416604.0
                 }, 
                 {
+                  "color": "rgb(237, 159, 19)", 
                   "name": "PntA", 
                   "size": 1561110.0
                 }, 
                 {
+                  "color": "rgb(235, 166, 23)", 
                   "name": "PntB", 
                   "size": 2075304.0
                 }, 
                 {
+                  "color": "rgb(242, 159, 26)", 
                   "name": "NadK", 
                   "size": 30660.0
                 }, 
                 {
+                  "color": "rgb(225, 151, 18)", 
                   "name": "PanB", 
                   "size": 900504.0
                 }, 
                 {
+                  "color": "rgb(242, 159, 26)", 
                   "name": "CoaA", 
                   "size": 39184.0
                 }, 
                 {
+                  "color": "rgb(244, 168, 21)", 
                   "name": "YnfK", 
                   "size": 47700.0
                 }, 
                 {
+                  "color": "rgb(232, 159, 24)", 
                   "name": "LipA", 
                   "size": 238503.0
                 }, 
                 {
+                  "color": "rgb(231, 160, 20)", 
                   "name": "FolE", 
                   "size": 837162.0
                 }, 
                 {
+                  "color": "rgb(228, 158, 21)", 
                   "name": "HemB", 
                   "size": 861516.0
                 }, 
                 {
+                  "color": "rgb(244, 168, 21)", 
                   "name": "HemD", 
                   "size": 6150.0
                 }, 
                 {
+                  "color": "rgb(242, 159, 26)", 
                   "name": "HemX", 
                   "size": 160344.0
                 }, 
                 {
+                  "color": "rgb(228, 158, 21)", 
                   "name": "HemE", 
                   "size": 229746.0
                 }, 
                 {
+                  "color": "rgb(228, 154, 18)", 
                   "name": "HemG", 
                   "size": 19005.0
                 }, 
                 {
+                  "color": "rgb(225, 151, 18)", 
                   "name": "FtnA", 
                   "size": 435105.0
                 }, 
                 {
+                  "color": "rgb(249, 173, 21)", 
                   "name": "UbiD", 
                   "size": 97909.0
                 }, 
                 {
+                  "color": "rgb(251, 168, 22)", 
                   "name": "UbiB", 
                   "size": 87360.0
                 }, 
                 {
+                  "color": "rgb(231, 160, 20)", 
                   "name": "UbiG", 
                   "size": 196560.0
                 }, 
                 {
+                  "color": "rgb(237, 161, 23)", 
                   "name": "UbiE", 
                   "size": 283128.0
                 }, 
                 {
+                  "color": "rgb(228, 152, 27)", 
                   "name": "UbiF", 
                   "size": 39100.0
                 }, 
                 {
+                  "color": "rgb(249, 173, 21)", 
                   "name": "MenB", 
                   "size": 462270.0
                 }, 
                 {
+                  "color": "rgb(242, 159, 26)", 
                   "name": "IspA", 
                   "size": 67275.0
                 }, 
                 {
+                  "color": "rgb(225, 151, 18)", 
                   "name": "IspB", 
                   "size": 173128.0
                 }, 
                 {
+                  "color": "rgb(237, 161, 23)", 
                   "name": "Dxs", 
                   "size": 72540.0
                 }, 
                 {
+                  "color": "rgb(228, 152, 27)", 
                   "name": "IspG", 
                   "size": 222456.0
                 }, 
                 {
+                  "color": "rgb(232, 159, 24)", 
                   "name": "IspH", 
                   "size": 99224.0
                 }, 
                 {
+                  "color": "rgb(231, 160, 20)", 
                   "name": "RfbA", 
                   "size": 605045.0
                 }, 
                 {
+                  "color": "rgb(237, 159, 19)", 
                   "name": "RfbB", 
                   "size": 427785.0
                 }, 
                 {
+                  "color": "rgb(232, 159, 24)", 
                   "name": "RfbC", 
                   "size": 120750.0
                 }, 
                 {
+                  "color": "rgb(233, 160, 20)", 
                   "name": "RfbD", 
                   "size": 159530.0
                 }
@@ -3713,6 +4613,7 @@
               "size": 19779015.0
             }, 
             {
+              "color": null, 
               "name": "Biosynthesis of other secondary metabolites", 
               "size": 0
             }
@@ -3721,258 +4622,323 @@
           "size": 267967989.0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(226, 172, 92)", 
                   "name": "YfiD", 
                   "size": 1318100.0
                 }, 
                 {
+                  "color": "rgb(236, 178, 96)", 
                   "name": "WrbA", 
                   "size": 2245600.0
                 }, 
                 {
+                  "color": "rgb(213, 168, 90)", 
                   "name": "SodA", 
                   "size": 7590482.0
                 }, 
                 {
+                  "color": "rgb(207, 163, 93)", 
                   "name": "SodC", 
                   "size": 118678.0
                 }, 
                 {
+                  "color": "rgb(226, 172, 92)", 
                   "name": "FrmB", 
                   "size": 141224.0
                 }, 
                 {
+                  "color": "rgb(213, 160, 90)", 
                   "name": "RidA", 
                   "size": 2705150.0
                 }, 
                 {
+                  "color": "rgb(213, 168, 90)", 
                   "name": "KatE", 
                   "size": 3266514.0
                 }, 
                 {
+                  "color": "rgb(207, 163, 93)", 
                   "name": "KatG", 
                   "size": 3721952.0
                 }, 
                 {
+                  "color": "rgb(232, 175, 95)", 
                   "name": "FadD", 
                   "size": 41184.0
                 }, 
                 {
+                  "color": "rgb(226, 172, 92)", 
                   "name": "YsgA", 
                   "size": 204171.0
                 }, 
                 {
+                  "color": "rgb(225, 169, 100)", 
                   "name": "NfsA", 
                   "size": 49680.0
                 }, 
                 {
+                  "color": "rgb(204, 158, 92)", 
                   "name": "NfsB", 
                   "size": 779681.0
                 }, 
                 {
+                  "color": "rgb(215, 167, 90)", 
                   "name": "HdhA", 
                   "size": 369750.0
                 }, 
                 {
+                  "color": "rgb(203, 162, 91)", 
                   "name": "DkgA", 
                   "size": 267575.0
                 }, 
                 {
+                  "color": "rgb(209, 158, 85)", 
                   "name": "DkgB", 
                   "size": 59274.0
                 }, 
                 {
+                  "color": "rgb(207, 163, 93)", 
                   "name": "YbiC", 
                   "size": 925965.0
                 }, 
                 {
+                  "color": "rgb(226, 175, 93)", 
                   "name": "YqhD", 
                   "size": 282510.0
                 }, 
                 {
+                  "color": "rgb(209, 158, 85)", 
                   "name": "AldB", 
                   "size": 66666.0
                 }, 
                 {
+                  "color": "rgb(209, 158, 85)", 
                   "name": "FadH", 
                   "size": 16800.0
                 }, 
                 {
+                  "color": "rgb(207, 163, 93)", 
                   "name": "SolA", 
                   "size": 187116.0
                 }, 
                 {
+                  "color": "rgb(203, 162, 91)", 
                   "name": "QorA", 
                   "size": 297850.0
                 }, 
                 {
+                  "color": "rgb(225, 173, 101)", 
                   "name": "QueF", 
                   "size": 27918.0
                 }, 
                 {
+                  "color": "rgb(231, 181, 95)", 
                   "name": "MsrA", 
                   "size": 270088.0
                 }, 
                 {
+                  "color": "rgb(219, 169, 92)", 
                   "name": "MsrB", 
                   "size": 233722.0
                 }, 
                 {
+                  "color": "rgb(207, 163, 93)", 
                   "name": "AhpC", 
                   "size": 4981493.0
                 }, 
                 {
+                  "color": "rgb(226, 175, 93)", 
                   "name": "Bcp", 
                   "size": 787020.0
                 }, 
                 {
+                  "color": "rgb(215, 167, 90)", 
                   "name": "Tpx", 
                   "size": 3537408.0
                 }, 
                 {
+                  "color": "rgb(219, 169, 92)", 
                   "name": "Fpr", 
                   "size": 85064.0
                 }, 
                 {
+                  "color": "rgb(219, 169, 92)", 
                   "name": "YfgD", 
                   "size": 275723.0
                 }, 
                 {
+                  "color": "rgb(213, 168, 90)", 
                   "name": "PflC", 
                   "size": 105534.0
                 }, 
                 {
+                  "color": "rgb(219, 166, 89)", 
                   "name": "YghA", 
                   "size": 77322.0
                 }, 
                 {
+                  "color": "rgb(225, 169, 100)", 
                   "name": "DusA", 
                   "size": 43030.0
                 }, 
                 {
+                  "color": "rgb(211, 165, 91)", 
                   "name": "YjgB", 
                   "size": 78013.0
                 }, 
                 {
+                  "color": "rgb(228, 171, 94)", 
                   "name": "YahK", 
                   "size": 774431.0
                 }, 
                 {
+                  "color": "rgb(213, 168, 90)", 
                   "name": "TrmI", 
                   "size": 181640.0
                 }, 
                 {
+                  "color": "rgb(209, 158, 85)", 
                   "name": "PrmB", 
                   "size": 244900.0
                 }, 
                 {
+                  "color": "rgb(211, 159, 95)", 
                   "name": "Cfa", 
                   "size": 131810.0
                 }, 
                 {
+                  "color": "rgb(225, 169, 100)", 
                   "name": "Tam", 
                   "size": 24696.0
                 }, 
                 {
+                  "color": "rgb(215, 167, 90)", 
                   "name": "TrmJ", 
                   "size": 54858.0
                 }, 
                 {
+                  "color": "rgb(204, 158, 92)", 
                   "name": "PrmA", 
                   "size": 87021.0
                 }, 
                 {
+                  "color": "rgb(226, 175, 93)", 
                   "name": "RsmH", 
                   "size": 101850.0
                 }, 
                 {
+                  "color": "rgb(214, 167, 95)", 
                   "name": "YhbS", 
                   "size": 165330.0
                 }, 
                 {
+                  "color": "rgb(224, 167, 97)", 
                   "name": "YjgM", 
                   "size": 38076.0
                 }, 
                 {
+                  "color": "rgb(211, 165, 91)", 
                   "name": "OpgH", 
                   "size": 23100.0
                 }, 
                 {
+                  "color": "rgb(214, 167, 95)", 
                   "name": "Tgt", 
                   "size": 98625.0
                 }, 
                 {
+                  "color": "rgb(218, 174, 93)", 
                   "name": "AnmK", 
                   "size": 46125.0
                 }, 
                 {
+                  "color": "rgb(213, 168, 90)", 
                   "name": "GlnE", 
                   "size": 102168.0
                 }, 
                 {
+                  "color": "rgb(213, 168, 90)", 
                   "name": "DosC", 
                   "size": 18550.0
                 }, 
                 {
+                  "color": "rgb(219, 169, 92)", 
                   "name": "AceK", 
                   "size": 20090.0
                 }, 
                 {
+                  "color": "rgb(215, 167, 90)", 
                   "name": "Rnb", 
                   "size": 521640.0
                 }, 
                 {
+                  "color": "rgb(218, 174, 93)", 
                   "name": "HsdR", 
                   "size": 61242.0
                 }, 
                 {
+                  "color": "rgb(207, 163, 93)", 
                   "name": "Slt", 
                   "size": 109005.0
                 }, 
                 {
+                  "color": "rgb(226, 172, 92)", 
                   "name": "RihA", 
                   "size": 40119.0
                 }, 
                 {
+                  "color": "rgb(218, 174, 93)", 
                   "name": "RihC", 
                   "size": 17328.0
                 }, 
                 {
+                  "color": "rgb(213, 168, 90)", 
                   "name": "HflC", 
                   "size": 253506.0
                 }, 
                 {
+                  "color": "rgb(207, 163, 93)", 
                   "name": "HflK", 
                   "size": 528778.0
                 }, 
                 {
+                  "color": "rgb(215, 167, 90)", 
                   "name": "Def", 
                   "size": 253669.0
                 }, 
                 {
+                  "color": "rgb(209, 158, 85)", 
                   "name": "CopA", 
                   "size": 397818.0
                 }, 
                 {
+                  "color": "rgb(231, 181, 95)", 
                   "name": "LsrF", 
                   "size": 29050.0
                 }, 
                 {
+                  "color": "rgb(203, 162, 91)", 
                   "name": "KdsD", 
                   "size": 53464.0
                 }, 
                 {
+                  "color": "rgb(226, 175, 93)", 
                   "name": "Glf", 
                   "size": 695325.0
                 }, 
                 {
+                  "color": "rgb(228, 171, 94)", 
                   "name": "FolX", 
                   "size": 181200.0
                 }, 
                 {
+                  "color": "rgb(207, 163, 93)", 
                   "name": "Mpl", 
                   "size": 185999.0
                 }
@@ -3981,10 +4947,12 @@
               "size": 40599670.0
             }, 
             {
+              "color": null, 
               "name": "Protein kinases", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Cytochrome P450", 
               "size": 0
             }
@@ -3997,66 +4965,83 @@
       "size": 605178517.0
     }, 
     {
+      "color": null, 
       "children": [
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Response to viral infection", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Complement and coagulation cascades", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Toll-like receptor signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "NOD-like receptor signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "RIG-I-like receptor signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Cytosolic DNA-sensing pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Natural killer cell mediated cytotoxicity", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Antigen processing and presentation", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "T cell receptor signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "B cell receptor signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Fc epsilon RI signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Fc gamma R-mediated phagocytosis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Leukocyte transendothelial migration", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Intestinal immune network for IgA production", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Chemokine signaling pathway", 
               "size": 0
             }
@@ -4065,20 +5050,25 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Insulin signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Adipocytokine signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "PPAR signaling pathway", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Renin-angiotensin system", 
               "size": 0
             }
@@ -4087,12 +5077,15 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Cardiac muscle contraction", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Vascular smooth muscle contraction", 
               "size": 0
             }
@@ -4101,32 +5094,40 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Salivary secretion", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Pancreatic secretion", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Bile secretion", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Protein digestion and absorption", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Fat digestion and absorption", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Vitamin digestion and absorption", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Mineral absorption", 
               "size": 0
             }
@@ -4135,24 +5136,30 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Vasopressin-regulated water reabsorption", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Aldosterone-regulated sodium reabsorption", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Endocrine and other factor-regulated calcium reabsorption", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Proximal tubule bicarbonate reclamation", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Collecting duct acid secretion", 
               "size": 0
             }
@@ -4161,24 +5168,30 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Synaptic vesicle cycle", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "GABAergic synapse", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Glutamatergic synapse", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Long-term potentiation", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Neurotrophin signaling pathway", 
               "size": 0
             }
@@ -4187,12 +5200,15 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Phototransduction", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Olfactory transduction", 
               "size": 0
             }
@@ -4201,16 +5217,20 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Dorso-ventral axis formation", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Axon guidance", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Osteoclast differentiation", 
               "size": 0
             }
@@ -4219,12 +5239,15 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Circadian rhythm", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Plant-pathogen interaction", 
               "size": 0
             }
@@ -4237,34 +5260,43 @@
       "size": 0
     }, 
     {
+      "color": null, 
       "children": [
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Proteoglycans in cancer", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "MicroRNAs in cancer", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Transcriptional misregulation in cancer", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Viral carcinogenesis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Pathways in cancer", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Renal cell carcinoma", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Non-small cell lung cancer", 
               "size": 0
             }
@@ -4273,8 +5305,10 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Systemic lupus erythematosus", 
               "size": 0
             }
@@ -4283,20 +5317,25 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Alzheimer's disease", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Parkinson's disease", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Amyotrophic lateral sclerosis (ALS)", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Huntington's disease", 
               "size": 0
             }
@@ -4305,12 +5344,15 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "Hypertrophic cardiomyopathy (HCM)", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Arrhythmogenic right ventricular cardiomyopathy (ARVC)", 
               "size": 0
             }
@@ -4319,56 +5361,70 @@
           "size": 0
         }, 
         {
+          "color": null, 
           "children": [
             {
+              "color": null, 
               "name": "HTLV-I infection", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Epstein-Barr virus infection", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Legionellosis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Herpes simplex infection", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Salmonella infection", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Vibrio cholerae infection", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Pathogenic Escherichia coli infection", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Staphylococcus aureus infection", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Tuberculosis", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Bacterial invasion of epithelial cells", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Measles", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Influenza A", 
               "size": 0
             }, 
             {
+              "color": null, 
               "name": "Hepatitis C", 
               "size": 0
             }
@@ -4381,12 +5437,16 @@
       "size": 0
     }, 
     {
+      "color": null, 
       "children": [
         {
+          "color": "rgb(86, 91, 96)", 
           "children": [
             {
+              "color": null, 
               "children": [
                 {
+                  "color": "rgb(87, 91, 96)", 
                   "name": " Not mapped", 
                   "size": 109413500.0
                 }
