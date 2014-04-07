@@ -2,12 +2,13 @@
 
 
 class HierarchyItem(object):
-    def __init__(self, name, depth, parent):
+    def __init__(self, name, depth, parent, color=None):
         self.name = name
         self.children = []
         self.parent = parent
         self.depth = depth
         self.size = None
+        self.color = color
         
     @staticmethod
     def make_root(name):
@@ -19,7 +20,8 @@ class HierarchyItem(object):
         if parent:
             item_depth = parent.depth + 1
             
-        item = HierarchyItem(d['name'], item_depth, parent)
+        item = HierarchyItem(d['name'], item_depth, parent,
+                             color=d.get('color'))
         children = [HierarchyItem._from_dict(cd, item)
                     for cd in d.get('children', [])]
         item.children = children
@@ -49,7 +51,8 @@ class HierarchyItem(object):
     
     def as_dict(self):
         d = {'name': self.name,
-             'size': self.get_size()}
+             'size': self.get_size(),
+             'color': self.color}
         if self.children:
             d['children'] = [c.as_dict() for c in self.children]
         return d

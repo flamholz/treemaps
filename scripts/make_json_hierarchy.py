@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import argparse
+import csv
 import json
 
 from hierarchy import HierarchyItem
@@ -42,18 +43,34 @@ def Main():
                         help='Location of hierarchy file.')
     parser.add_argument('output_filename',
                         help='Where to output data to.')
+    parser.add_argument('-c', '--color_filename',
+                        help='Name of the color mapping file.')
     args = parser.parse_args()
     
+    color_map = dict()
+    if args.color_filename:
+        with open(args.color_filename) as f:
+            for line in csv.reader(f, delimiter='\t'):
+                id, r, g, b = line
+                id = id.strip()
+                assert id not in color_map, "duplicate ID"
+                r, g, b = 255 * float(r), 255 * float(g), 255 * float(b)
+                hexval = 'rgb(%d, %d, %d)' % (r, g, b)
+                color_map[id] = hexval
+    
     root = None
-    current_parent = None
+    current_item = None
     print 'Parsing input'
     with open(args.hierarchy_filename) as f:
         for line in f:
-            if current_parent is None:
+            if current_item is None:
                 root = HierarchyItem.make_root(line.strip())
-                current_parent = root
+                current_item = root
             else:
-                current_parent = consume_line(line, current_parent)
+                current_item = consume_line(line, current_item)
+            if current_item.name in color_map:
+                current_item.color = color_map[current_item.name]
+    
     
     print 'Writing JSON'
     with open(args.output_filename, 'w') as out_f:
